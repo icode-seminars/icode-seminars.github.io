@@ -1,0 +1,81 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	margin-top:0;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	font-style: normal;
+	color: #333;
+	height: 100%;
+} 
+
+h1
+{
+	font-family: 'Open Sans', sans-serif; 
+	font-weight: 300;
+	font-size: 40px;
+	color: #c00040;
+}
+
+strong
+{
+	font-weight: 400;
+}
+
+a:link 
+{
+    text-decoration: none;
+	color: #0000aa;
+}
+
+a:hover
+{
+	color: #c00040;
+}
+
+.sem_main
+{
+	position: absolute;
+	width: 944px;
+	left: 50%;
+	margin-left: -472px;
+	margin-bottom: 100px;
+	text-align: left;
+} 
+
+.sem_content_intro
+{
+	font-size: 22px;
+	font-style: italic;
+}
+
+.sem_content_body
+{
+	margin-top:60px;
+	padding:10px;
+}
+
+.sem_table
+{
+	border-collapse: collapse; 
+	width: 90%;
+}
+
+.sem_table_td_bottom
+{
+	border-bottom:1px solid;
+	border-color: #ccc;
+}
+
+.sem_table td
+{
+	padding:5px;
+	padding-right:10px;
+}
+
+.sem_abstract
+{
+	font-size:15px;
+}
