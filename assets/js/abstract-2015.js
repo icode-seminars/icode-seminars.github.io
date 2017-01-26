@@ -379,31 +379,21 @@ var abstract033 = 'In a feedback system, besides the stabilization, the controll
                     zeros are assumed to satisfy some growth condition. Interpolation-based approach will be used to \
                     design such a controller and a numerical example will be presented.'
 
-var abstract101 = 'To extend spacecraft operational life, control techniques that can accommodate actuator failures, reduce the use of fuel and avoid collisions with debris are of interest. Such techniques may need to exploit "higher order" physical effects, such as forces and torques normally considered as disturbances, approaches that can take advantage of nonlinearities in spacecraft kinematics and dynamics, and handle stationary and moving obstacle avoidance requirements. Hence spacecraft operational life extension problems create many potential opportunities for the application of nonlinear, optimal and constrained/predictive control.</br>\
-After general remarks on control challenges and opportunities in spacecraft operational life extension problems, the presentation will focus on related recent case studies. </br>\
-In particular, it will be shown that for a spacecraft with only two functioning reaction wheels linear controllability of attitude dynamics can be regained, under appropriate assumptions, if solar radiation pressure torques are included in the analysis. This conclusion can be exploited for handling reaction wheel failures based on conventional linear controllers.  Alternative approaches that do not rely on the solar radiation pressure torques but exploit nonlinearities in the spacecraft kinematics and dynamics will also be discussed. Furthermore, an intriguing capability of model predictive controllers to achieve discontinuous stabilization in underactuated spacecraft attitude control problems will be highlighted. We will also touch upon coupled translational and rotational relative motion dynamics of a rigid spacecraft in central gravity field and potential opportunities to move translationally in space by employing attitude control only.  In the final part of the presentation, drift counteraction optimal control problems for systems with drift and/or large disturbances will be introduced, in which the objective is to maximize the time for a system to violate prescribed constraints. Potential applications of drift counteraction optimal control, including for geostationary satellite orbit maintenance and drag induced orbit decay compensation, will be discussed'
-
-var abstract102 = 'An innovative framework for the control of stochastic process by means of an optimization problem on the Fokker-Planck equation is presented. The time dependent probability density function (PDF)  as representative of the dynamical state of a stochastic system is used, hence the governing Kolmogorov-Fokker-Planck-type (KFP) equation is employed as a constraint for the minimization of a cost function. The problem to find a controller that minimizes the cost function can be solved by solving an optimality system of time dependent forward and backward partial differential equations. A short review of control objectives, KFP equations and numerical techniques to tackle the optimization problem, is shown by using models from biology, physics, and finance.'
-
-var abstract103 = 'We investigate a moral hazard problem in finite time with lump-sum and continuous payments, involving infinitely many Agents, with mean field type interactions, hired by one Principal. By reinterpreting the mean-field game faced by each Agent in terms of a mean field FBSDE, we are able to rewrite the Principal\'s problem as a control problem for McKean-Vlasov SDEs. We solve completely and explicitly the problem in special cases, going beyond the usual linear-quadratic framework.'
-
-var abstract104 = 'TBA'
-
 
 // ----------------------------------------------------- FUNCTIONS -----------------------------------------------------
-			function insertAbstractToggle(absnumstr) {
-				var absstr = 'abstract' + absnumstr;
-				var txt = "<div id=\"hide_part" + absnumstr + "\" style=\"display:none;\"> \n"
-						+ "<p class=\"sem_abstract\" style=\"text-align: justify;text-justify: inter-word;\"><strong>Abstract</strong><br> \n"
-						+ eval(absstr) + " \n"
-						+ "</p> \n"
-						+ "<a href=\"javascript:;\" onClick=\"document.getElementById('show_part" + absnumstr + "').style.display='block';"
-						+ "document.getElementById('hide_part" + absnumstr + "').style.display='none';\">&#8657; </a> \n"
-						+ "</div> \n"
-						+ "<div id=\"show_part" + absnumstr + "\" style=\"display:block;\"> \n"
-						+ "<a href=\"javascript:;\" onClick=\"document.getElementById('show_part" + absnumstr + "').style.display='none';"
-						+ " document.getElementById('hide_part" + absnumstr + "').style.display='block';\">Abstract &#8659;</a> \n"
-						+ "</div> \n";
-					
-				return txt;
-			}
+function insertAbstractToggle(absnumstr) {
+		var absstr = 'abstract' + absnumstr;
+		var txt = "<div id=\"hide_part" + absnumstr + "\" style=\"display:none;\"> \n"
+				+ "<p class=\"sem_abstract\" style=\"text-align: justify;text-justify: inter-word;\"><strong>Abstract</strong><br> \n"
+				+ eval(absstr) + " \n"
+				+ "</p> \n"
+				+ "<a href=\"javascript:;\" onClick=\"document.getElementById('show_part" + absnumstr + "').style.display='block';"
+				+ "document.getElementById('hide_part" + absnumstr + "').style.display='none';\">&#8657; </a> \n"
+				+ "</div> \n"
+				+ "<div id=\"show_part" + absnumstr + "\" style=\"display:block;\"> \n"
+				+ "<a href=\"javascript:;\" onClick=\"document.getElementById('show_part" + absnumstr + "').style.display='none';"
+				+ " document.getElementById('hide_part" + absnumstr + "').style.display='block';\">Abstract &#8659;</a> \n"
+				+ "</div> \n";
+
+		return txt;
+}
