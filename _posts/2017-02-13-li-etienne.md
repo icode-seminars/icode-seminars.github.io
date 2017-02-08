@@ -1,9 +1,9 @@
 ---
 location: L2S CentraleSupelec, Salle du Conseil
-first_seminar_title: TBA
+first_seminar_title: Observer synthesis under time-varying sampling for Lipschitz nonlinear systems
 first_seminar_speaker: Lucien Etienne (L2S, CentraleSupélec)
 first_seminar_time: 10:00 - 11:00
-first_seminar_abstract: TBA
+first_seminar_abstract: "The problem of observation of continuous-time nonlinear Lipschitz systems under time-varying discrete measurements is studied. This class of systems naturally occurs when continuous processes are observed through digital sensors and information is sent via a network to a computer for state estimation. Since network introduces uncertainties in the sampling time, the observer must be designed so to take these uncertainties into account. Here two classes of observation scheme are studied. First an impulsive observers, which make instantaneous correction when information is received, is considered. Then a Luenberger-like observer with a piece wise constant correction term is studied. For both classes of observer, generic conditions are provided. Then a restriction of the generic conditions is used to establish tractable conditions that allows the synthesis of an observer gain."
 second_seminar_title: "Cooperative Control of Multi-Agents: On a Sphere  Manifold and in the Euclidean Space."
 second_seminar_speaker: Wei Li (Nanjing University, China)
 second_seminar_time: 11:00 - 12:00
