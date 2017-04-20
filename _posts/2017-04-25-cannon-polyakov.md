@@ -1,14 +1,14 @@
 ---
 location: L2S CentraleSupelec 
-first_seminar_title: TBA
+first_seminar_title: On generalized homogeneity and time-constrained stabilization of evolution systems
 first_seminar_speaker: Andrey Polyakov (NON-A, INRIA Lille-Nord Europe)
 first_seminar_speaker_url: http://researchers.lille.inria.fr/~polyakov/
 first_seminar_time: 10:00 - 11:00
-first_seminar_abstract: TBA
-second_seminar_title: TBA
-second_seminar_speaker: Mark Cannon (University of Oxford)
+first_seminar_abstract: "Homogeneity is a symmetry of an object (e.g. function or operator) with respect to some transformations (dilations). Nonlinear homogeneous ODEs (ordinary differential equations) form an important class of models of control systems. They appear as local approximations of nonlinear plant and include models of process control, nonholonomic mechanical systems, models with frictions, etc. Being non-linear the homogeneous systems demonstrate properties typical for linear systems, for example, local stability implies the global one, stable homogeneous control system is ISS (input-to-state stable) with respect to measurement noises and additive exogenous disturbance, etc. <br> This talk is devoted to extension of ideas of homogeneity to evolution systems in Banach/Hilbert spaces. A lot of well-known partial differential equations are homogeneous in a generalized sense, (e.g. heat, wave, Navier-Stocks, Saint-Venant, Korteweg-de Vries, fast diffusion equations). They inherit many important properties of homogeneous ODEs such as  scalability of trajectories or finite-time stability in the case of negative homogeneity degree. Homogeneity allows us to design a universal control for finite-time stabilization of evolution system. "
+second_seminar_title: Chance-constrained optimization with tight confidence bounds
+second_seminar_speaker: Mark Cannon (Department of Engineering Science, University of Oxford)
 second_seminar_time: 11:00 - 12:00
 second_seminar_speaker_url: http://www.eng.ox.ac.uk/control/people/dr-mark-cannon
-second_seminar_abstract: TBA
+second_seminar_abstract: "Optimization problems involving chance constraints, i.e. constraints on decision variables that are required to hold with given probability, occur in numerous engineering contexts, but have in particular contributed to developments in robust control design over the past decade. This talk will provide a new perspective on randomized methods for solving chance-constrained programming problems based on samples of uncertain parameters, and presents a theoretical framework for sampled convex programming that encompasses analyses of constraint discarding approaches and sequential sampling approaches. We show that tight bounds on the confidence of the solution of a sampled problem meeting chance constraints apply if a randomized sample discarding strategy is employed. This suggests a solution methodology which is both computationally convenient, being based on the solutions of convex sampled optimization problems, and efficient, requiring the solution of smaller numbers of problems than existing constraint discarding and sequential methods. We illustrate the method with examples from stochastic model predictive control design."
 category: seminar
 ---
