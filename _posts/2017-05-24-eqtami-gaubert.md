@@ -1,5 +1,5 @@
 ---
-location: L2S CentraleSupelec 
+location: L2S CentraleSupelec <br> Salle des Séminaires, C4.01
 first_seminar_title: "Event-based Model Predictive Controllers & MRI-powered robots"
 first_seminar_speaker: Alina Eqtami (L2S, CentraleSupelec)
 first_seminar_speaker_url: ""
