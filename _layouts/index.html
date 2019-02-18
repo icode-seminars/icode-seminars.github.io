@@ -54,7 +54,7 @@
 
 
 
-            {% assign j = 0 %}
+         {% assign j = 0 %}
         
         {% capture written_year %}'None'{% endcapture %}
 
@@ -139,6 +139,7 @@
         {% if year == written_year %}            
 		  </table>
 	    </div>
+        {% endif %}
         {% capture written_year %}{{ year }}{% endcapture %}
         {% endfor %}
       </div>
