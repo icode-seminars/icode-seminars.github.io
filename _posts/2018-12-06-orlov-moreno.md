@@ -1,5 +1,5 @@
 ---
-location:  L2S, Salle ddu Conseil
+location:  L2S, Salle du Conseil
 second_seminar_title: "Homogenous Sliding Mode Control and Observation."
 second_seminar_speaker: Jaime A. Moreno (Universidad Nacional Autónoma de México (UNAM), Mexico City, Mexico)
 second_seminar_speaker_url: https://www.researchgate.net/profile/Jaime_Moreno4
