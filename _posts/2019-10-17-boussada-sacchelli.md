@@ -2,6 +2,7 @@
 location:  L2S, Salle du Conseil
 second_seminar_title: "Stabilization of non-uniformly observable systems"
 second_seminar_speaker: "Ludovic Sacchelli (Lehigh University, Pennsylvania, USA) "
+second_seminar_speaker_url: http://www.cmap.polytechnique.fr/~sacchelli/
 second_seminar_time: 11:00 - 12:00
 second_seminar_abstract: "A common strategy in dynamic output feedback stabilization is to apply a state feedback to an observer in order to stabilize the coupled state-observer system. It is well known that global stabilizability, paired with uniform observability, implies semi-global stabilisability by dynamic output feedback. However in many generic cases, the system is not uniformly observable, and usual strategies for semi-global stabilization break down. New approaches need to be explored to resolve this issue. We will present case studies to give an outlook for the challenges raised by this problem and highlight a promising answer based on the idea of unitary embeddings of control systems."
 first_seminar_title: "Coalescence and Splitting Mechanisms of Spectral Values and their Eﬀect on Stability: Towards a New Framework for Reduced Complexity Poleplacement Design for Time-Delay Systems."
