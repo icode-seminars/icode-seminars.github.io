@@ -19,6 +19,13 @@ h1
 	color: #c00040;
 }
 
+h2
+{
+	font-family: 'Open Sans', sans-serif; 
+	font-weight: 300;
+	color: #c00040;
+}
+
 strong
 {
 	font-weight: 400;
