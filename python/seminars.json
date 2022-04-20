@@ -1,5 +1,25 @@
 [
   {
+    "date": "2022-05-12",
+    "seminars": [
+      {
+        "title": "Uncertainty-aware control strategies for safe learning-based robotic autonomy",
+        "speaker": {
+          "name": "Thomas Lew",
+          "affiliation": "Stanford University, USA",
+          "url": "https://stanfordasl.github.io/people/thomas-lew/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "The deployment of autonomous robotic systems in partially unknown environments requires agents that explicitly reason about uncertainty, adapt to their environment, and guarantee safe operation. For example, a robot assisting astronauts in space should be able to autonomously identify its coupled dynamics with uncertain payloads while always avoiding collisions with obstacles. In this talk, I will present a data-driven approach for safely performing tasks under dynamics uncertainty. The algorithm tackles chance-constrained problems that are initially infeasible due to high dynamics uncertainty by autonomously exploring and learning online to reduce uncertainty before performing the task. Then, I will discuss the problem of forward reachability analysis that consists of characterizing the set of reachable states of a dynamical system at a given time in the future. I will present a simple yet efficient sampling-based reachability method with probabilistic accuracy guarantees. This algorithm can be used for robust trajectory optimization via sequential convex programming and embedded in a model predictive controller. I will present experimental results on a robotic hardware platform emulating microgravity dynamics.",
+        "bio": "Thomas Lew is a Ph.D. candidate in Aeronautics and Astronautics at Stanford University. He received his M.Sc. in Robotics from ETH Zürich in 2019 and his B.Sc. in Microengineering from EPFL in 2017. His main research interests include stochastic optimal control and safe data-driven control for robotics and aerospace applications."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du Conseil"
+  },
+  {
     "date": "2022-04-14",
     "seminars": [
       {
