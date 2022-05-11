@@ -81,7 +81,6 @@ with open("seminars.json", "r", encoding = "utf-8") as file:
   seminars = json.load(file)
 
 today = dt.today().strftime("%Y-%m-%d")
-#today = "2020-11-04"
 for i, s in enumerate(seminars):
   if today > s["date"]:
     break
@@ -93,7 +92,7 @@ with open("../index.html", "w", encoding = "utf-8") as file:
     for line in f:
       if "<!-- NEXT SEMINARS -->" in line:
         if next_seminars:
-          write_table(next_seminars, file)
+          write_table(next_seminars[::-1], file)
       elif "<!-- PREVIOUS SEMINARS -->" in line:
         write_table(past_seminars, file)
       else:

@@ -1,5 +1,24 @@
 [
   {
+    "date": "2022-06-09",
+    "seminars": [
+      {
+        "title": "Dwell-time stability analysis for switched systems: from linear to (very structured) non-linear subsystems",
+        "speaker": {
+          "name": "Matteo Della Rossa",
+          "affiliation": "UCLouvain, Belgium",
+          "url": "https://scholar.google.com/citations?user=yWV933EAAAAJ"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Since the 90s it is known that, starting from a finite family of asymptotically stable <em>linear</em> subsystems, two important facts hold:<ul><li>The arising switched system is not, in general, asymptotically stable, if it is free to commute/switch with unbounded/unconstrained frequency.</li><li>On the other hand, there always exists a large enough waiting-time, also called <em>dwell-time</em>, for which the arising (constrained) switched system is &ldquo;still&rdquo; asymptotically stable.</li></ul>It is also known that this second statement is false, in whole generality, for finite families of <em>non-linear</em> subsystems.<br />In this talk, I present some recent results which partially extend/adapt the dwell-time stability analysis for two of the &ldquo;simplest&rdquo; non-linear dynamics one can think about: affine and homogeneous subsystems.<br />In the case of affine subsystems, due to the presence of multiple equilibria, more general notions of stability/boundedness are introduced and studied, highlighting the relations with the stability of the linear part of the system under the same class of dwell-time switching signals.<br />In the case of homogeneous subsystems, we investigate different scenarios where all the subsystems have a common asymptotically stable equilibrium, but for the switched system, the equilibrium is not uniformly GAS for arbitrarily large values of dwell-time. Anyhow, thanks to the homogeneity property, we provide local/practical stability results."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du Conseil"
+  },
+  {
     "date": "2022-05-12",
     "seminars": [
       {
