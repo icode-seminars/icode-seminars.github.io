@@ -13,10 +13,31 @@
           "14:00",
           "15:00"
         ],
-        "abstract": "Since the 90s it is known that, starting from a finite family of asymptotically stable <em>linear</em> subsystems, two important facts hold:<ul><li>The arising switched system is not, in general, asymptotically stable, if it is free to commute/switch with unbounded/unconstrained frequency.</li><li>On the other hand, there always exists a large enough waiting-time, also called <em>dwell-time</em>, for which the arising (constrained) switched system is &ldquo;still&rdquo; asymptotically stable.</li></ul>It is also known that this second statement is false, in whole generality, for finite families of <em>non-linear</em> subsystems.<br />In this talk, I present some recent results which partially extend/adapt the dwell-time stability analysis for two of the &ldquo;simplest&rdquo; non-linear dynamics one can think about: affine and homogeneous subsystems.<br />In the case of affine subsystems, due to the presence of multiple equilibria, more general notions of stability/boundedness are introduced and studied, highlighting the relations with the stability of the linear part of the system under the same class of dwell-time switching signals.<br />In the case of homogeneous subsystems, we investigate different scenarios where all the subsystems have a common asymptotically stable equilibrium, but for the switched system, the equilibrium is not uniformly GAS for arbitrarily large values of dwell-time. Anyhow, thanks to the homogeneity property, we provide local/practical stability results."
+        "abstract": "Since the 90s it is known that, starting from a finite family of asymptotically stable <em>linear</em> subsystems, two important facts hold:<ul><li>The arising switched system is not, in general, asymptotically stable, if it is free to commute/switch with unbounded/unconstrained frequency.</li><li>On the other hand, there always exists a large enough waiting-time, also called <em>dwell-time</em>, for which the arising (constrained) switched system is &ldquo;still&rdquo; asymptotically stable.</li></ul>It is also known that this second statement is false, in whole generality, for finite families of <em>non-linear</em> subsystems.<br />In this talk, I present some recent results which partially extend/adapt the dwell-time stability analysis for two of the &ldquo;simplest&rdquo; non-linear dynamics one can think about: affine and homogeneous subsystems.<br />In the case of affine subsystems, due to the presence of multiple equilibria, more general notions of stability/boundedness are introduced and studied, highlighting the relations with the stability of the linear part of the system under the same class of dwell-time switching signals.<br />In the case of homogeneous subsystems, we investigate different scenarios where all the subsystems have a common asymptotically stable equilibrium, but for the switched system, the equilibrium is not uniformly GAS for arbitrarily large values of dwell-time. Anyhow, thanks to the homogeneity property, we provide local/practical stability results.",
+        "bio": "Matteo Della Rossa obtained a master degree in Mathematics (cum laude) from University of Udine (Italy), in 2017. He graduated from University of Toulouse at LAAS-CNRS (Toulouse, France) in 2020 where he obtained the Ph.D. degree in automatic control. From November 2020, he holds a postdoctoral position at UCLouvain (Louvain-La-Neuve, Belgium). His main research interests include nonlinear control, switched and hybrid dynamical systems, nonsmooth analysis and nonsmooth Lyapunov functions."
       }
     ],
     "place": "L2S CentraleSupélec, Salle du Conseil"
+  },
+  {
+    "date": "2022-05-19",
+    "seminars": [
+      {
+        "title": "A Geometric PID Control law for Stabilization of Nonholonomic Mechanical Systems on Lie Groups",
+        "speaker": {
+          "name": "Ravi N.&nbsp;Banavar",
+          "affiliation": "IIT Bombay, India",
+          "url": "https://www.sc.iitb.ac.in/~banavar/"
+        },
+        "time": [
+          "10:00",
+          "11:00"
+        ],
+        "abstract": "The PID controller is an elegant and versatile controller for set point tracking in double integrator systems evolving on Euclidean spaces. Since mechanical systems are typically constrained interconnections of rigid bodies whose configuration space is $\\mathbb{​​​​SE}​​​​(3)$, which is not even topologically Euclidean, a geometric PID controller has been developed for mechanical systems evolving on Lie groups. In this work, we build upon the previously established framework for unconstrained mechanical systems to address systems with nonholonomic constraints. It encompasses many practically applicable mechanical systems encountered in robotics since robots are constrained interconnections of rigid bodies, where the constraints could either be holonomic or nonholonomic.<br />(Work done in collaboration with Rama Seshan C., Arun Mahindrakar and D.&nbsp;H.&nbsp;S.&nbsp;Maithripala)",
+        "bio": "Ravi N.&nbsp;Banavar received his B.Tech. in Mechanical Engineering from IIT Madras (1986), his Masters (Mechanical, 1988) and Ph.D. (Aerospace, 1992) degrees from Clemson University and the University of Texas at Austin, respectively. He had a brief teaching stint at UCLA in 1991–92, soon after which he joined the Systems and Control Engineering group at IIT Bombay in early 1993. During his tenure as the Convener of the group, from 2009 onwards, the strength of the group grew from 5 to 9 members, with academic strengths in nonlinear control, switched systems, optimization, geometric mechanics, formation and cooperative control, robotics and adaptive control. He has spent a few sabbatical breaks during the years at UCLA (Los Angeles), IISc (Bangalore) and LSS (Supelec, France). His research interests are broadly in the field of geometric mechanics, nonlinear and optimal control, with applications to electromechanical and aerospace engineering problems. He is an Associate Editor of the Elsevier journal, Systems and Control Letters, on the Editorial Advisory Board of the Taylor and Francis publication, The International Journal of Control, and a Technical Associate Editor of the IEEE Control Systems Society magazine."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle des Séminaires"
   },
   {
     "date": "2022-05-12",
