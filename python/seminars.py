@@ -35,7 +35,8 @@ def write_seminar(seminar, file, last_row = False):
   file.write('<td{}>\n'.format(cl))
   file.write('  <!-- TITLE -->\n')
   if "file" in seminar and seminar["file"]:
-    file.write('  <a href="{}"><img src="assets/images/download.png" alt="Download slides" style="height:24px;border:0"></a>&nbsp;&nbsp;\n'.format("slides/" + seminar["file"]))
+    file_path = seminar["file"] if "://" in seminar["file"] else "slides/" + seminar["file"]
+    file.write('  <a href="{}"><img src="assets/images/download.png" alt="Download slides" style="height:24px;border:0"></a>&nbsp;&nbsp;\n'.format(file_path))
   file.write('  <strong>{}</strong><br />\n'.format(seminar["title"]))
   file.write('  <!--SPEAKER-->\n')
   if isinstance(seminar["speaker"], list):
