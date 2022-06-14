@@ -1,5 +1,24 @@
 [
   {
+    "date": "2022-06-20",
+    "seminars": [
+      {
+        "title": "Using Delays for Control",
+        "speaker": {
+          "name": "Emilia Fridman",
+          "affiliation": "Tel Aviv University, Israel",
+          "url": "https://www.eng.tau.ac.il/~emilia/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "In this talk by &ldquo;using delays&rdquo; I understand either Time-Delay Approaches to control problems (that originally may be free of delays) or intentional inserting delays to the feedback. I will start with an old Time-Delay approach &mdash; to sampled-data control. In application to network-based control with communication constraints, this is the only approach that allows treating transmission delays larger than the sampling intervals. I will continue with &ldquo;using artificial delays&rdquo; leading to simple static output-feedback instead of observer-based control. Finally I will present a New Time-Delay approach &mdash; this time to Averaging, where the existing methods are qualitative: the original system is stable for small enough values of the parameter if the averaged system is stable. Our approach provides the first Quantitative bounds on the small parameter making averaging-based control reliable."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle de séminaires"
+  },
+  {
     "date": "2022-06-09",
     "seminars": [
       {
@@ -14,7 +33,8 @@
           "15:00"
         ],
         "abstract": "Since the 90s it is known that, starting from a finite family of asymptotically stable <em>linear</em> subsystems, two important facts hold:<ul><li>The arising switched system is not, in general, asymptotically stable, if it is free to commute/switch with unbounded/unconstrained frequency.</li><li>On the other hand, there always exists a large enough waiting-time, also called <em>dwell-time</em>, for which the arising (constrained) switched system is &ldquo;still&rdquo; asymptotically stable.</li></ul>It is also known that this second statement is false, in whole generality, for finite families of <em>non-linear</em> subsystems.<br />In this talk, I present some recent results which partially extend/adapt the dwell-time stability analysis for two of the &ldquo;simplest&rdquo; non-linear dynamics one can think about: affine and homogeneous subsystems.<br />In the case of affine subsystems, due to the presence of multiple equilibria, more general notions of stability/boundedness are introduced and studied, highlighting the relations with the stability of the linear part of the system under the same class of dwell-time switching signals.<br />In the case of homogeneous subsystems, we investigate different scenarios where all the subsystems have a common asymptotically stable equilibrium, but for the switched system, the equilibrium is not uniformly GAS for arbitrarily large values of dwell-time. Anyhow, thanks to the homogeneity property, we provide local/practical stability results.",
-        "bio": "Matteo Della Rossa obtained a master degree in Mathematics (cum laude) from University of Udine (Italy), in 2017. He graduated from University of Toulouse at LAAS-CNRS (Toulouse, France) in 2020 where he obtained the Ph.D. degree in automatic control. From November 2020, he holds a postdoctoral position at UCLouvain (Louvain-La-Neuve, Belgium). His main research interests include nonlinear control, switched and hybrid dynamical systems, nonsmooth analysis and nonsmooth Lyapunov functions."
+        "bio": "Matteo Della Rossa obtained a master degree in Mathematics (cum laude) from University of Udine (Italy), in 2017. He graduated from University of Toulouse at LAAS-CNRS (Toulouse, France) in 2020 where he obtained the Ph.D. degree in automatic control. From November 2020, he holds a postdoctoral position at UCLouvain (Louvain-La-Neuve, Belgium). His main research interests include nonlinear control, switched and hybrid dynamical systems, nonsmooth analysis and nonsmooth Lyapunov functions.",
+        "file": "2022-06-09-Della-Rossa.pdf"
       }
     ],
     "place": "L2S CentraleSupélec, Salle du Conseil"
