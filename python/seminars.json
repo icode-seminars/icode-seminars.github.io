@@ -1,5 +1,39 @@
 [
   {
+    "date": "2022-10-13",
+    "seminars": [
+      {
+        "title": "Projection filter for open quantum systems in presence of imperfect measurement",
+        "speaker": {
+          "name": "Ibrahim Ramadan",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/ramadan-ibrahim-2/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "Open quantum systems are systems in interaction with an environment. The evolution of an open quantum system undergoing measurement is described by stochastic master equations known as filter equations. The filter equations could be high dimensional and in real experiments different sorts of imperfections may be present, for instance inefficient detectors. In this talk, I will present an approach based on projection methods to design quantum filters of a lower dimension in presence of imperfect measurement. An error analysis is performed to evaluate the precision of this approximate filter, focusing on the case of quantum non-demolition (QND) measurement. Then, I will show that for QND measurement, it is possible to express the exact solution of the quantum filter equation in terms of the solution of a lower dimensional stochastic differential equation. The efficiency of the approach is shown through simulations. This also holds in presence of a stabilizing feedback control depending on the projection filter.",
+        "bio": "Ibrahim Ramadan is a PhD student in control of open quantum systems at CentraleSupelec, in the laboratory of signals and systems, under the supervision of Nina Amini and Paolo Mason. He received his BSc. and MSc. in Pure Mathematics with focus on Differential Geometry and Geometric Control from the Lebanese University. His research interests include matrix theory, (quantum) control theory, and differential geometry."
+      },
+      {
+        "title": "Contrôlabilité des systèmes quantiques en dimension infinie",
+        "speaker": {
+          "name": "Eugenio Pozzoli",
+          "affiliation": "Université de Bourgogne Franche-Comté",
+          "url": "https://sites.google.com/view/eugeniopozzoli/home"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "L'étude des propriétés de contrôlabilité d'un système quantique joue un rôle important dans les applications en physique et en chimie, comme par example la spectroscopie et l'information quantique. Les questions que j'aborderai dans cet exposé sont principalement deux&nbsp;: (i) le système (fermé) peut-il être contrôlé parmi tous ses états&nbsp;? (ii) quels états peuvent être atteints en temps petit&nbsp;? La question (i) est un problème de contrôlabilité bilinéaire (globale) qui a été résolu dans le cas où l'état évolue dans un espace de dimension finie, mais qui est moins bien compris en dimension infinie. La question (ii) est un problème d'accessibilité bilinéaire en petit temps lié au problème du temps minimal, qui est ouvert dans les cas de dimension finie et infinie. Dans le cadre infini-dimensionnel, je présenterai quelques réponses aux questions (i) en utilisant des approximations fini-dimensionnelles avec des contrôles périodiques et (ii) en utilisant une technique de saturation issue du contrôle géométrique avec des contrôles pas bornés. Je montrerai aussi des applications de ces résultats au contrôle de la dynamique rotationelle des molécules, vues comme des corps rigides quantiques.",
+        "bio": "Après avoir obtenu une licence en mathématiques à l'Université de Rome La Sapienza, et un master en mathématiques à l'Université de Trieste en cotutelle avec le centre de recherche SISSA, en Italie, j'ai effectué une thèse en mathématiques appliquées intitulée &ldquo;Quelques problèmes d'évolution et de contrôle en mécanique quantique&rdquo; à Sorbonne Université et Inria Paris, encadrée par Ugo Boscain et Mario Sigalotti. Je suis actuellement postdoctorant en mathématiques à l'Université de Bourgogne Franche-Comté, Dijon, où j'étudie en collaboration avec Thomas Chambrion les propriétés de contrôlabilité des systèmes quantiques."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2022-09-08",
     "seminars": [
       {
