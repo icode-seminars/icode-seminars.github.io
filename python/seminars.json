@@ -1,5 +1,38 @@
 [
   {
+    "date": "2022-11-17",
+    "seminars": [
+      {
+        "title": "An approach for safe learning-based Model Predictive Control",
+        "speaker": {
+          "name": "Anas Makdesi",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/makdesi-anas/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "In this talk, I will introduce a novel approach to safe learning-based Model Predictive Control (MPC) for nonlinear systems. The approach relies on computing from data sampled from a given system, two models. The first one is a set-valued over-approximation guaranteed to contain the dynamics of the true system. This model is used to find a set of safe controller actions at every state. The second model is a single-valued estimation of the dynamics used to find a controller to minimize a cost function. By forcing the single-valued estimation to be included in the over-approximation, we can use the set of safe controller actions to constrain the minimization problem to guarantee the feasibility and safety of the learning-based MPC controller."
+      },
+      {
+        "title": "Convex liftings in control design. Connections with inverse optimality and path planning",
+        "speaker": {
+          "name": "Sorin Olaru",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/olaru-sorin/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Convex liftings (and their dual projection operations) emerged recently as an attractive framework to handle complex nonlinear decision problems. It has been investigated in the last ten years in relationship with inverse parametric linear/quadratic programming and then extended to several related topics. In the first studies, the aim was to construct an appropriate optimization problem composed of a set of linear constraints and a cost function such that the optimal solution to such a problem is equivalent to the given piecewise affine function defined over a polyhedral partition. The present talk introduces the constructive procedure established to address this problem. As a first geometrical result, an algorithm to construct convex liftings of a given convexly liftable cell complex will be put forward. Pursuing this idea, an important result will be presented: any continuous piecewise affine function defined over a polyhedral partition is the solution of a parametric linear/quadratic programming problem which can be numerically constructed. Furthermore, this convex lifting based method requires at most one supplementary dimension. This structural result has interesting connections to control design: in constrained linear model predictive control (MPC) where it can be shown that any continuous piecewise affine control law can be obtained via a reformulated linear MPC problem with the control horizon at most equal to two prediction steps; in the evaluation of PWA controllers through a fast positioning mechanism; in obstacle avoidance problems to generate feasible corridors for navigation.",
+        "bio": "Sorin Olaru is a Professor at CentraleSupélec in France where he holds the RTE Chair on \"The Digital Transformation of Electricity Networks\". He is also member of the CNRS Laboratory of Signals and Systems within the Paris-Saclay University. His research interests encompass optimization-based control design, set-theoretic characterization of constrained dynamical systems and the numerical methods with specific applications in congestion control of energy networks or autonomous driving. He is currently involved in international research projects related to embedded predictive control, fault tolerant control and network control (time-delay) systems."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Amphi Gaston Planté (B2.33)"
+  },
+  {
     "date": "2022-10-13",
     "seminars": [
       {
