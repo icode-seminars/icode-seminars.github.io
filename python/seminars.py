@@ -83,7 +83,7 @@ with open("seminars.json", "r", encoding = "utf-8") as file:
 
 today = dt.today().strftime("%Y-%m-%d")
 for i, s in enumerate(seminars):
-  if today > s["date"]:
+  if today >= s["date"]:
     break
 next_seminars = seminars[:i]
 past_seminars = seminars[i:]
