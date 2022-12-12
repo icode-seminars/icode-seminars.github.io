@@ -1,5 +1,25 @@
 [
   {
+    "date": "2023-01-19",
+    "seminars": [
+      {
+        "title": "First-order and zeroth-order optimization algorithms as model-free feedback controllers",
+        "speaker": {
+          "name": "Saverio Bolognani",
+          "affiliation": "ETH Zurich",
+          "url": "https://www.bsaver.io/"
+        },
+        "time" : [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Many control problems in the engineering domain can be abstracted as multi-input multi-output steady-state regulation problems, where the system needs to be steered to an efficient operating point that is compatible with the operating limits of the plant. We will see that controllers for this class of problems can be designed by tapping into the tools of nonlinear optimization, and in particular first-order and zeroth-order methods. Interconnecting an iterative algorithm with a physical system requires however some care in order to guarantee well-posedness of the resulting dynamical system and closed-loop stability. On the other hand, this design approach yields robust controllers that are (almost) model-free and successfully tackle this complex steady-state control problems even in the presence of substantial uncertainty on the plant and on the unknown disturbances.",
+        "bio": "Saverio Bolognani received the Ph.D degree in Information Engineering from the University of Padova, Italy, in 2011. In 2006&ndash;2007, he was a visiting graduate student at the University of California at San Diego. In 2013&ndash;2014, he was a Postdoctoral Associate at the Laboratory for Information and Decision Systems of the Massachusetts Institute of Technology in Cambridge (MA). He is currently a Senior Scientist at the Automatic Control Laboratory at ETH Zurich. His research interests include the application of networked control system theory to power systems, cyber-physical systems, the intersection of nonlinear optimization with feedback control design, multi-agent systems, and game theory."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2022-11-17",
     "seminars": [
       {
