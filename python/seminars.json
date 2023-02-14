@@ -1,5 +1,25 @@
 [
   {
+    "date": "2023-02-23",
+    "seminars": [
+      {
+        "title": "Fuzzy Model Predictive Control for Takagi & Sugeno Systems with Optimised Prediction Dynamics",
+        "speaker": {
+          "name": "Diego Muñoz-Carpintero",
+          "affiliation": "Institute of Engineering Science, Universidad de O'Higgins, Chile",
+          "url": "https://scholar.google.co.uk/citations?user=Z5dS83oAAAAJ&hl=en"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "This talk will discuss the design of a Model Predictive Control (MPC) strategy for Takagi & Sugeno (TS) systems that is based on a control law with optimised prediction dynamics, first proposed in a context of Robust MPC for systems with multiplicative uncertainty. We will examine the characteristics of the Robust MPC formulation, and then based on the similarities between this kind of systems and state-space TS systems, this predicted control law is adapted to fuzzy models to exploit the known information of the normalised degrees of activation. It is described how to design the parameters of the controller and how to apply it in closed-loop fashion. It is shown that the proposed controller is guaranteed to be recursively feasible and asymptotically stabilises the controlled systems, and simulation examples are used to illustrate the attributes and benefits of the proposed controller.",
+        "bio": "Diego Muñoz-Carpintero received the B.Sc. and M.Sc. degrees in electrical engineering from the Universidad de Chile, in 2009 and 2010, respectively, and the D.Phil. degree in control engineering from the University of Oxford, in 2014. From 2015 to 2016, he was a Research Fellow at Nanyang Technological University, and from 2017 to 2019, he was a Postdoctoral Researcher at the University of Chile. He is currently an Assistant Professor at the Institute of Engineering Science, Universidad de O'Higgins. His research interests include control theory in the areas of predictive, robust and stochastic control; intelligent control; fuzzy and neural modelling; and their application to energy efficient control of systems such as micro-grids, electric vehicle routing, battery management and agricultural irrigation."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2023-02-09",
     "seminars": [
       {
