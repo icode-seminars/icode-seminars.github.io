@@ -3,11 +3,25 @@
     "date": "2023-02-23",
     "seminars": [
       {
+        "title": "EXTREMA: enabling autonomous interplanetary spacecraft",
+        "speaker": {
+          "name": "Andrea Carlo Morelli",
+          "affiliation": "Politecnico di Milano",
+          "url": "https://dart.polimi.it/member/?p=andrea+carlo+morelli"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "Space missions are extremely expensive, especially deep-space exploration ones. In recent years, the advent of CubeSats (i.e., miniaturized spacecraft) in Low Earth Orbit has drastically decreased spacecraft integration and development costs. However, the costs required to operate satellites do not scale with their dimension. Therefore, advantages brought by CubeSats could be partially jeopardized. With the recent success of CubeSats demonstration missions in deep-space and in the Earth-Moon environment, it becomes crucial to develop autonomous GNC systems for small satellites in order to further allow the use of miniaturized spacecraft in future exploration missions. If successful, these systems could be easily adapted to larger spacecraft with tremendous impact on their costs and therefore on the entire space sector. The EXTREMA project collocates within this framework, and aims at developing algorithms, strategies, and facilities to show that autonomous interplanetary CubeSats are possible.",
+        "bio": "Andrea Carlo Morelli is a PhD student in Space Engineering. He holds a Master of Science degree from Politecnico di Milano. He is working on the ERC-funded project EXTREMA, which aims at enabling autonomous interplanetary miniaturized spacecraft. In particular, he focuses on the autonomous recomputation of the trajectory to be followed by the satellite."
+      },
+      {
         "title": "Fuzzy Model Predictive Control for Takagi & Sugeno Systems with Optimised Prediction Dynamics",
         "speaker": {
           "name": "Diego Muñoz-Carpintero",
           "affiliation": "Institute of Engineering Science, Universidad de O'Higgins, Chile",
-          "url": "https://scholar.google.co.uk/citations?user=Z5dS83oAAAAJ&hl=en"
+          "url": "https://scholar.google.com/citations?user=Z5dS83oAAAAJ"
         },
         "time": [
           "14:00",
