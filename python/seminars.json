@@ -1,5 +1,25 @@
 [
   {
+    "date": "2023-05-11",
+    "seminars": [
+      {
+        "title": "Results and thoughts concerning stabilization of discrete-time linear switched systems",
+        "speaker": {
+          "name": "Paolo Mason",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/mason-paolo/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "In this talk I will discuss stabilizability issues for discrete-time linear switched systems, assuming that one can use the switching law as a control function (either in feedback form or as an open loop control). I will introduce and analyze two spectral characteristics describing stabilizability properties of switched systems: the joint spectral subradius and the stabilizability radius. These quantities can be seen as the counterpart, for stabilizability analysis, of the classical joint spectral radius which characterizes the uniform stability properties of the system. Some rather counterintuitive facts will be pointed out, showing how delicate the problem of checking stabilizability is.",
+        "bio": "Paolo Mason is a &ldquo;chargé de recherche&rdquo; (researcher) CNRS at the Laboratory of Signals and Systems (L2S), Gif-sur-Yvette, France, since 2009. He received the M.S. degree in Mathematics from the University of Padova in 2002 and the Ph.D. degree from SISSA, Trieste, in 2006. From 2006 to 2009 he held post-doctoral positions at Loria Nancy, IAC-CNR Rome and L2S Gif-sur-Yvette. His research interests include geometric control theory, quantum control and stability issues for hybrid systems."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2023-04-27",
     "seminars": [
       {
