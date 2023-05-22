@@ -1,5 +1,77 @@
 [
   {
+    "date": "2023-06-29",
+    "seminars": [
+      {
+        "title": "Puzzles of converse Lyapunov theory for infinite-dimensional systems",
+        "speaker": {
+          "name": "Andrii Mironchenko",
+          "affiliation": "Univ.&nbsp;Passau, Germany",
+          "url": "http://www.mironchenko.com/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "We start with a short recap of converse Lyapunov results for the asymptotic stability of nonlinear infinite-dimensional systems. Next, we present a Lyapunov view on the classic criteria for exponential stability of linear infinite-dimensional systems due to Datko, Pazy, and Littman. We build the bridge between the linear and nonlinear Lyapunov results by introducing non-coercive Lyapunov functions and show that for many system classes existence of a non-coercive Lyapunov function is sufficient to ensure the asymptotic stability of a dynamical system. Finally, we consider the infinite-dimensional systems with inputs (boundary control systems) and show how coercive and non-coercive Lyapunov functions can be used to analyze the input-to-state stability of such systems. We close the talk with some open problems in the Lyapunov theory for systems with inputs.",
+        "bio": "Andrii Mironchenko was born in 1986 in Odesa, Ukraine. He received the M.Sc.&nbsp;degree in applied mathematics from the Odesa I.I.&nbsp;Mechnikov National University, Odesa, Ukraine, in 2008, the Ph.D.&nbsp;degree in mathematics from the University of Bremen, Bremen, Germany in 2012, and the habilitation degree from the University of Passau, Germany, in 2023. He has held a research position with the University of Würzburg, Würzburg, Germany, and was a Postdoctoral Fellow of Japan Society for Promotion of Science (JSPS) with the Kyushu Institute of Technology, Fukuoka Prefecture, Japan (2013–2014). Since 2014, he is with the Faculty of Mathematics and Computer Science, University of Passau, Passau, Germany.<br />Dr.&nbsp;Mironchenko is the author of the monograph &ldquo;Input-to-state stability&rdquo; (Springer, 2023) and (co)author of more than 60 peer-reviewed papers in journals and conference proceedings in control theory and applied mathematics. A.&nbsp;Mironchenko is a co-founder and co-organizer of the Workshop series &ldquo;Stability and Control of Infinite-Dimensional Systems&rdquo; (SCINDIS). He is a Senior Member of IEEE.<br />His research interests include stability theory, nonlinear systems theory, distributed parameter systems, hybrid systems, and applications of control theory to biological systems and distributed control."
+      },
+      {
+        "title": "TBA",
+        "speaker": {
+          "name": "Fabien Wirth",
+          "affiliation": "Univ.&nbsp;Passau, Germany",
+          "url": "https://scholar.google.com/citations?user=GPXp0s0AAAAJ"
+        },
+        "time": [
+          "15:00",
+          "16:00"
+        ],
+        "abstract": "TBA"
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
+    "date": "2023-06-22",
+    "seminars": [
+      {
+        "title": "TBA",
+        "speaker": {
+          "name": "Alessio Franci",
+          "affiliation": "Univ.&nbsp;Liège, Belgium",
+          "url": "https://sites.google.com/site/francialessioac/"
+        },
+        "time": [
+          "15:30",
+          "16:30"
+        ],
+        "abstract": "TBA"
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
+    "date": "2023-06-19",
+    "seminars": [
+      {
+        "title": "Learning Control: Latest Results and Applications",
+        "speaker": {
+          "name": "Cristiano Maria Verrelli",
+          "affiliation": "Department of Electronic Engineering, Univ.&nbsp;Rome &ldquo;Tor Vergata&rdquo;",
+          "url": "https://scholar.google.it/citations?user=IWzBCJEAAAAJ"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "This seminar aims at highlighting new connections &mdash; in terms of stability analysis and convergence proof &mdash; underlying the design of the Repetitive Learning Control with respect to well established techniques such Adaptive Control, Adaptive Learning and Regulator Control design.",
+        "bio": "Cristiano Maria Verrelli is an Associate Professor at the Department of Electronic Engineering at the University of Rome &ldquo;Tor Vergata&rdquo; and Coordinator of the M.Sc.&nbsp;Degree in Mechatronics Engineering. His research interests are in dynamic systems analysis, robust adaptive nonlinear control and learning control theory with application to electrical machines, electrical vehicles, robots, physiological systems, epidemic models, harmonic structures in human movement. He is co-recipient of the IFAC grant for the activity: Kids in Control and member of the Technical Committee 9.2. of IFAC &ldquo;Systems and Control for Societal Impact&rdquo; for the triennium 2020&ndash;2023."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2023-05-11",
     "seminars": [
       {
