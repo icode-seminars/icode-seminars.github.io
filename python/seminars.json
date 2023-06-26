@@ -17,7 +17,7 @@
         "bio": "Andrii Mironchenko was born in 1986 in Odesa, Ukraine. He received the M.Sc.&nbsp;degree in applied mathematics from the Odesa I.I.&nbsp;Mechnikov National University, Odesa, Ukraine, in 2008, the Ph.D.&nbsp;degree in mathematics from the University of Bremen, Bremen, Germany in 2012, and the habilitation degree from the University of Passau, Germany, in 2023. He has held a research position with the University of Würzburg, Würzburg, Germany, and was a Postdoctoral Fellow of Japan Society for Promotion of Science (JSPS) with the Kyushu Institute of Technology, Fukuoka Prefecture, Japan (2013–2014). Since 2014, he is with the Faculty of Mathematics and Computer Science, University of Passau, Passau, Germany.<br />Dr.&nbsp;Mironchenko is the author of the monograph &ldquo;Input-to-state stability&rdquo; (Springer, 2023) and (co)author of more than 60 peer-reviewed papers in journals and conference proceedings in control theory and applied mathematics. A.&nbsp;Mironchenko is a co-founder and co-organizer of the Workshop series &ldquo;Stability and Control of Infinite-Dimensional Systems&rdquo; (SCINDIS). He is a Senior Member of IEEE.<br />His research interests include stability theory, nonlinear systems theory, distributed parameter systems, hybrid systems, and applications of control theory to biological systems and distributed control."
       },
       {
-        "title": "TBA",
+        "title": "Port-Hamiltonian systems with a moving interface",
         "speaker": {
           "name": "Fabien Wirth",
           "affiliation": "Univ.&nbsp;Passau, Germany",
@@ -27,7 +27,8 @@
           "15:00",
           "16:00"
         ],
-        "abstract": "TBA"
+        "abstract": "Joint work with Alexander Kilian, Bernhard Maschke, Andrii Mironchenko.<br /><br />We consider two systems of two conservation laws that are defined on complementary spatial intervals and coupled by an interface as a single port-Hamiltonian system. In case of a fixed interface position, we characterize the boundary and interface conditions for which the associated port-Hamiltonian operator generates a contraction semigroup. Furthermore, we present sufficient conditions for the exponential stability of the generated strongly stable semigroup. The results are illustrated by the example of two transmission lines coupled by a resistor. Some of the problems of extending the results to the case of moving interfaces are discussed.",
+        "bio": "Fabian Wirth received his PhD from the Institute of Dynamical Systems at the University of Bremen in 1995. He has since held positions in Bremen, at the Centre Automatique et Syst&egrave;mes of Ecole des Mines, the Hamilton Institute at NUI Maynooth, Ireland, the University of Würzburg and IBM Research Ireland. He now holds the chair for Dynamical Systems at the University of Passau in Germany. His current interests include stability theory, switched systems and large scale networks with applications to networked systems and distributed control."
       }
     ],
     "place": "L2S CentraleSupélec, Salle du conseil"
