@@ -1,5 +1,25 @@
 [
   {
+    "date": "2023-09-14",
+    "seminars": [
+      {
+        "title": "Leveraging the structure at the heart of biological systems",
+        "speaker": {
+          "name": "Giulia Giordano",
+          "affiliation": "University of Trento, Italy",
+          "url": "http://giordanogiulia.altervista.org/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Biological systems can be seen as dynamical networks, i.e. dynamical systems that are naturally endowed with an underlying network structure, because they are composed of several subsystems that interact according to an interconnection topology. Despite their large scale and complexity, they often exhibit an extraordinary robustness that preserves fundamental properties and qualitative behaviours even in the presence of huge parameter variations and environmental fluctuations.<br />We look for the source of the amazing robustness that often characterises biological systems, by identifying properties and emerging behaviours that exclusively depend on the system structure (the graph topology along with qualitative information), regardless of parameter values. We introduce the BDC-decomposition to capture the system structure and enable the parameter-free assessment of important properties, including the stability of equilibria and the sign of steady-state input-output influences, thus allowing structural model falsification and structural comparison of alternative mechanisms proposed to explain the same phenomenon.<br />Finally, we discuss the limitations of structural methodologies, which may be overcome by integrating and complementing them with probabilistic approaches.",
+        "bio": "Giulia Giordano is currently an Associate Professor with the Department of Industrial Engineering at the University of Trento. She received her Ph.D. degree in systems and control theory from the University of Udine in 2016. She visited the Control and Dynamical Systems Group, California Institute of Technology, in 2012, and the Institute of Systems Theory and Automatic Control, University of Stuttgart, in 2015. She was a Research Fellow with the LCCC Linnaeus Center and the Department of Automatic Control, Lund University, from 2016 to 2017, and an Assistant Professor with the Delft Center for Systems and Control, Delft University of Technology, from 2017 to 2019. She is an Associate Editor for the IEEE Control Systems Letters and for Automatica. She was recognised with the Outstanding Reviewer Letter from the IEEE Transactions on Automatic Control in 2016 and from the Annals of Internal Medicine in 2020, and chosen as the Outstanding Associate Editor of the IEEE Control Systems Letters for the year 2021. She received the European Embedded Control Institute Ph.D. Award 2016, the NAHS Best Paper Prize 2017, and the SIAM Activity Group on Control and Systems Theory Prize 2021 for &ldquo;significant contributions to the development of innovative methodologies for the structural analysis of networked control systems and their applications to biological networks&rdquo;. Her main research interests include the analysis and the control of dynamical networks, with applications especially to biology and epidemiology."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2023-06-29",
     "seminars": [
       {
