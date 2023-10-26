@@ -1,5 +1,39 @@
 [
   {
+    "date": "2023-10-12",
+    "seminars": [
+      {
+        "title": "Neural fields equations for visual illusions",
+        "speaker": {
+          "name": "Dario Prandi",
+          "affiliation": "L2S",
+          "url": "https://dprn.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Bifurcation theory appears to be one of the most used mathematical tools to address neuroscience questions, mainly in describing (spontaneous) pattern formation in the primary visual cortex (V1) under a sudden qualitative change of some parameter. It remains a powerful tool in understanding sensory-driven and self-organised cortical activity interactions, mainly when the sensory input is fully distributed in V1, Nicks et al. (SIAM J. Appl. Dyn. Syst., 2021). Nevertheless, in the presence of localised sensory inputs used, e.g., in the psychophysical experiments of Mackay (Nature, 1957) and Billock and Tsou (PNAS, 2007), techniques from bifurcation theory and even from multi-scale analysis seem ineffective for describing these phenomena.<br />In this talk we will present mathematical framework to explain these phenomena in V1, which consists of input-output controllability of an Amari-type neuronal fields model. In our discussion, the sensory input is interpreted as a cortical representation of the visual stimulus used in each experiment. It contains a localised distributed control function that models the stimulus's specificity, e.g., the redundant information in the centre of MacKay's funnel pattern (&ldquo;MacKay rays&rdquo;) or the fact that visual stimuli in Billock and Tsou's experiments are localized in the visual field. In particular, we will highlight the crucial role played by the non-linearity in these phenomena.",
+        "bio": "Dario Prandi was born in 1986 in Italy. After undergraduate studies in Modena and Padova, he received his Ph.D degree in applied mathematics at École Polythecnique (Palaiseau, France) in 2013. He has then held postdoctoral positions at Université Aix-Marseille and Université Paris-Dauphine. Since 2016 he is a Chargé de Recherche CNRS at L2S, CentraleSupélec.<br />The research of Dr. Prandi develops around geometric control theory and its applications to mathematical modelling of neural process in the human visual system, on which he co-authored the monograph &ldquo:A semidiscrete version of the Citti-Petitot-Sarti model as a plausible model for anthropomorphic image reconstruction and pattern recognition&rdquo; (2018)."
+      },
+      {
+        "title": "Model-based control loop closures for humanoids and manipulators",
+        "speaker": {
+          "name": "Mehdi Benallegue",
+          "affiliation": "CNRS-AIST JRL (Joint Robotics Laboratory)",
+          "url": "https://scholar.google.com/citations?user=TjWNmAQAAAAJ"
+        },
+        "time": [
+          "15:00",
+          "16:00"
+        ],
+        "abstract": "In the realm of controlling complex robotic systems, it is a common practice to resort to layered cascade controllers. In this model each level of control closes a local loop to track the references given by the higher level controller and considers the lower level controller good enough to manage its own references. This solution simplifies the overall problem but it usually renders the overall control pipeline slow and stiff. In this presentation I show our attempts to close the loop over several layers and to use more rich models in order to keep compliance, robustness and dynamic control systems. Three examples are presented, the control of biped locomotion, the estimation of the state of a humanoid robot and the control of physical human robot interaction with compliance and safety constraints.",
+        "bio": "Dr. Mehdi Benallegue holds an engineering degree from the National Institute of Computer Science (INI) in Algeria, obtained in 2007. He earned a master's degree from the University of Paris 7, France, in 2008, and a Ph.D. from the University of Montpellier 2, France, in 2011. His research took him to the Franco-Japanese Robotics Laboratory in Tsukuba, Japan, and to INRIA Grenoble, France. He also worked as a postdoctoral researcher at the Collège de France and at LAAS CNRS in Toulouse, France. Currently, he is a Research Associate with CNRS-AIST Joint Robotics Laboratory in Tsukuba, Japan. His research interests include robot estimation and control, legged locomotion, biomechanics, neuroscience, and computational geometry."
+      }
+    ],
+    "place": "L2S CentraleSupélec, Salle du conseil"
+  },
+  {
     "date": "2023-09-14",
     "seminars": [
       {
