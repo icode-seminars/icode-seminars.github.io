@@ -1,5 +1,25 @@
 [
   {
+    "date": "2023-11-14",
+    "seminars": [
+      {
+        "title": "Robust Stability Analysis for Integral Delay Systems: A Complete Type Functional Approach",
+        "speaker": {
+          "name": "Sabine Mondié",
+          "affiliation": "CINVESTAV, Mexico",
+          "url": "https://sabinemondie2.wordpress.com/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "We analyze the robust stability of integral delay systems with a single delay. We first derive a general result based on the complete type functional that depends on the Lyapunov delay matrix of the stable nominal system. We apply it directly to the study of integral equations with uncertain kernel and uncertain delay. The result is also helpful in analyzing nonlinear integral equations and computing exponential estimates of the solutions.",
+        "bio": "Sabine Mondié (S'96&ndash;M'99) received the B.S. degree in industrial engineering from the ITESM, Mexico City, and the M.S. and Ph.D. degrees in electrical engineering from CINVESTAV, Mexico City and IRCyN, Nantes, France, in 1983 and 1996, respectively.<br />She is a professor at the Department of Automatic Control at CINVESTAV, Mexico City, Mexico since 1996, and is currently head of the Department.<br />She has been chair for education, vice-chair of the IFAC Technical Committee 2.2. on &ldquo;Linear Control Systems&rdquo; and is a member of the IFAC Council for the 2023&ndash;2026 triennium. She has served as Associate Editor for several journals in control, including Systems & Control Letters and European Journal of Control. She is currently Associate Editor of IEEE Transactions on Automatic Control.<br />Her research work is focused on time-delay systems, their stability and robustness properties, as well as delay applications in engineering and biology. She has directed/co-directed over 18 Ph.D. and 25 master theses and authored/co-authored over 80 journal and 130 conference papers."
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2023-10-12",
     "seminars": [
       {
