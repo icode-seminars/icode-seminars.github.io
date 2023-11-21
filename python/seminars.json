@@ -14,7 +14,7 @@
           "15:00"
         ],
         "abstract": "Dans cet exposé je présenterai les résultats de collaborations sur deux problèmes a priori totalement indépendants. Dans un premier temps je présenterai des résultats généraux de stabilisation pour une large classe de systèmes linéaires contrôlables, obtenus par la méthode de backstepping. Celle-ci consiste à chercher un changement de variables inversible qui produit un système plus facile à stabiliser. L'introduction de ce problème auxiliaire permet alors d'obtenir des lois de rétroaction explicites en un sens qu'on illustrera sur quelques exemples.<br />Dans un second temps, j'exposerai des travaux tout récents sur l'utilisation d'une méthode de dualité pour approcher l'ensemble atteignable d'un système contrôlé lorsque le contrôle est soumis à des contraintes convexes. Prenant appui sur la dualité de Fenchel&ndash;Rockafellar, l'idée est d'introduire un problème auxiliaire, dit problème dual. L'étude de ce problème permet alors de certifier numériquement qu'un état est (non-)atteignable.",
-        "bio": ""
+        "bio": "Christophe Zhang est actuellement chercheur détaché au sein de l'équipe SPHINX à l'Inria Nancy. Il a effectué sa thèse au Laboratoire Jacques-Louis Lions sous la direction de Jean-Michel Coron, et un post-doctorat à la Friedrich Alexander Universität d'Erlangen sous la supervision d'Enrique Zuazua.<br />Sa recherche porte sur des problèmes de stabilisation, de contrôle sous contraintes, et de contrôle optimal, d'équations aux dérivées partielles."
       },
       {
         "title": "Stabilization of evolutions systems",
