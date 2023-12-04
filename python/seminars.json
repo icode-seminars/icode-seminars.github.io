@@ -3,20 +3,6 @@
     "date": "2023-12-07",
     "seminars": [
       {
-        "title": "Robotic Spacecraft Rendezvous with a Tumbling Target for Capture: Robust Methods for Planning and Control",
-        "speaker": {
-          "name": "Roberto Lampariello",
-          "affiliation": "Robotics and Mechatronics Institute, DLR, Germany",
-          "url": "https://rmc.dlr.de/rm/de/staff/roberto.lampariello/"
-        },
-        "time": [
-          "9:30",
-          "10:30"
-        ],
-        "abstract": "As the amount of orbital debris grows so too does the need for on-orbit repair and deorbit solutions to avoid the occurrence of the cascading Kessler syndrome. A number of methods have been proposed for approaching and capturing defunct satellites and other high-value debris, based on autonomous planning and control. In this talk, recent developments in providing robustness to this autonomous operational approach are presented. A significant portion of the objects to be captured are tumbling with unknown angular orientation and rate. As such, the rendezvous and capture procedure for these tumbling objects is complex and must be performed in real-time, precluding human teleoperation. A series of autonomous functionalities will first be presented for the autonomous rendezvous of the robotic spacecraft with the tumbling target, including state estimation of the target motion, as well as NLP-based motion planning and robust MPC control for tracking. The robust MPC control, which leverages a tube-based approach, provides robustness to the uncertainty in the target motion prediction. Following, a robust online motion re-planning methodology will be presented, which can be applied to parametric optimal control problems of relevance to the robot capture task. A fully autonomous rendezvous pipeline was recently demonstrated in microgravity on resource-constrained ASTROBEE hardware on the ISS. Preparations for a robotic capture demonstration mission are currently ongoing within the EROSS IOD Peraspera project of the EU Horizon 2020 Space Programme. Future work is looking at the use of singularity maps within the NLP-based motion planning framework.",
-        "bio": "Roberto Lampariello holds a B.Sc. degree in aerospace engineering from Southampton University, an M.Sc. degree in airplane aerodynamics from Cranfield University, a specialization degree in aerospace engineering from the University of Rome &ldquo;La Sapienza&rdquo; and a PhD on optimal motion planning for object interception and capture from the University of Darmstadt. He is employed as a researcher with the Robotics and Mechatronics Institute of the DLR in Germany, where he works in the fields of dynamics and control of free-flying space robots, in nonlinear programming-based robot motion planning and in robot autonomy. Since 2012 he is lecturer at the Technical University in Munich, for the course On-orbit Dynamics and Robotics. Since 2017 he is team leader of the On-Orbit Servicing Operations and Validation Team. He participated to different missions and mission studies, including the ETS-VII mission (JAXA, 1998), the DEOS (DLR, 2008&ndash;14), the e.Deorbit (ESA, 2015&ndash;16) and the EROSS IOD (EC, 2021&ndash;2024) mission studies and the TumbleDock mission (DLR/MIT/NASA, 2019&ndsah;22). He is currently coordinating research activities involving different DLR institutes on the sustainability of the orbital environment."
-      },
-      {
         "title": "Strongly Stabilizing Controller Design for Distributed Parameter Systems",
         "speaker": {
           "name": "Hitay Özbay",
@@ -31,7 +17,7 @@
         "bio": "Hitay Özbay is a Professor of Electrical and Electronics Engineering at Bilkent University, Ankara Turkey. He received the B.Sc., M.Eng. and PhD degrees from Middle East Technical University (1985), McGill University (1987), and University of Minnesota (1989), respectively. His prior academic affiliations include University of Rhode Island (1989&ndash;1990), and The Ohio State University (1991&ndash;2006) where he was a Professor of Electrical and Computer Engineering prior to joining Bilkent University. He also held a visiting position at INRIA, France (2009&ndash;2010). Professor Özbay was a member of the Board of Governors of the IEEE Control Systems Society (2017&ndash;2019) and a general assembly member of the European Control Association (EUCA), representing Turkey, 2013&ndash;2019. He served as Associate Editor for many journals, including IEEE Transactions on Automatic Control, SIAM Journal on Control and Optimization, and Automatica. He also served as Vice-Chair of IFAC Technical Committees on Networked Control Systems (2005&ndash;2011) and on Linear Control Systems (2017&ndash;2023). He is a Fellow of IEEE."
       }
     ],
-    "place": "L2S, IBM building"
+    "place": "L2S, IBM building, 5th floor"
   },
   {
     "date": "2023-11-23",
