@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-01-18",
+    "seminars": [
+      {
+        "title": "Analysis and Control of Multi-timescale Modular Directed Heterogeneous Networks",
+        "speaker": {
+          "name": "Anes Lazri",
+          "affiliation": "L2S",
+          "url": "https://scholar.google.com/citations?user=l07Iu4oAAAAJ&hl=es&oi=ao"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "We study the collective behavior of heterogeneous nonlinear systems, interconnected over generic directed graphs (with non-symmetric Laplacian), in the scenario that, due to the nature of their interconnections, the agents self-organize in modules. These are subnetworks composed of agents that are densely connected with a strong coupling, while the modules themselves are sparsely interconnected. We establish that beyond certain coupling thresholds, inside each module, the systems synchronize rapidly with a weighted-average dynamical system that evolves more slowly than the individual systems. Then, the average dynamical systems corresponding to each and all the modules synchronize among themselves. Thus, provided that the average dynamics admit the origin as a globally asymptotically stable equilibrium and each system is semi-passive, we establish global asymptotic stability for the overall network. In addition, we explore stabilization techniques that consist in controlling the average dynamics to make the origin globally asymptotically stable.",
+        "bio": "Anes Lazri obtained his Engineering degree in control engineering from the National Polytechnic School of Algiers in 2020. He obtained a Master's degree in Automation, signal, and image processing from Paris Saclay University in 2021. Today, he is preparing his doctoral thesis on analyzing and controlling nonlinear system networks at the same university. His research interests include multi-agent systems and nonlinear control.",
+        "file": ""
+      },
+      {
+        "title": "Switched systems with omega-regular switching sequences — Application to switched observer design",
+        "speaker": {
+          "name": "Antoine Girard",
+          "affiliation": "L2S",
+          "url": "https://sites.google.com/site/antoinesgirard/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "In this talk, I will present recent results on discrete-time switched linear systems. We consider systems with constrained switching signals where the constraint is given by an omega-regular language. Omega-regular languages allow us to specify fairness properties (e.g. « all modes have to be activated an infinite number of times ») that cannot be captured by usual switching constraints given by dwell-times or graph constraints. By combining automata theoretic techniques and Lyapunov theory, we provide necessary and sufficient conditions for the stability of such switched systems. In the second part of the talk, I will present an application of our framework to observer design of switched systems that are unobservable for arbitrary switching. We establish a systematic and almost universal procedure to design observers for discrete-time switched linear systems. This is joint work with Georges Aazan, Luca Greco and Paolo Mason.",
+        "bio": " ",
+        "file": " "
+      }
+    ],
+    "place": "L2S, IBM building"
+  },
+  {
     "date": "2023-12-07",
     "seminars": [
       {
