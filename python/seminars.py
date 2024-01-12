@@ -75,7 +75,7 @@ def write_table(seminar_list, file):
       file.write('  </tr>\n')
   file.write('</table>\n')
 
-locale.setlocale(locale.LC_ALL, "en_US")
+locale.setlocale(locale.LC_ALL, "en_US.utf8")
 abs_count = 0
 
 with open("seminars.json", "r", encoding = "utf-8") as file:
