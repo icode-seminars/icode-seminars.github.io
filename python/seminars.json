@@ -15,7 +15,7 @@
         ],
         "abstract": "In this talk, we will briefly review systems of controlled quantum particles and explain the necessity of considering quantum filtering theory to build Quantum Mean Field Games (MFG) and Quantum Mean Field Control (MFC). We will show the well-posedness in the case of imperfect measurement of the principal equation for quantum mean-field feedback control, known as the MF-Belavkin equation, and present its application to the stabilization of an $N$-Qubit system.​​​​​​​",
         "bio": " Master in probability theory Université Paris Dauphine | PSL 2021, Since October 2022 phd student on quantum control at L2S Centralesupelec Université Paris Saclay.- Main interest : Quantum filtering and control, Mean field games and stochastic process.​​​​​​​",
-        "file": " "
+        "file": "2024-02-15-Chalal.pdf"
       },
       {
         "title": "A mean-field-game approach to overfishing​​​​​​​",
@@ -30,7 +30,7 @@
         ],
         "abstract": "In this talk, we investigate an instance of the tragedy of the commons in spatially distributed harvesting games. The model we choose is that of a fishes’ population that is governed by a parabolic bistable equation and that fishermen harvest. We assume that, when no fisherman is present, the fishes’ population is invading (mathematically, there is an invading travelling front). Is it possible that fishermen, when acting selfishly, each in his or her own best interest, might lead to a reversal of the travelling wave and, consequently, to an extinction of the global fishes' population? To answer this question, we model the behaviour of individual fishermen using a Mean Field Game approach, and we show that the answer is yes. We then show that, at least in some cases, if the fishermen coordinated instead of acting selfishly, each of them could make more benefit, while still guaranteeing the survival of the fishes' population. Our study is illustrated by several numerical simulations​​​​​​​.",
         "bio": "Ziad Kobeissi started in October 2023 as an ISFP (equivalent to chargé de recherche) at L2S and Inria Saclay (Disco team). Before that, he was a postdoctoral researcher for three years at Inria Paris (Sierra team) and Institut Louis Bachelier. He received a PhD in 2020 on mean field games, supervised by Yves Achdou and Pierre Cardaliaguet. Currently, his research interests cover partial differential equations, optimal control, mean field interacting systems, and machine learning. ",
-        "file": " "
+        "file": "2024-02-15-Kobeissi.pdf"
       }
     ],
     "place": "L2S, IBM building, 3rd floor"
