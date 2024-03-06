@@ -1,5 +1,26 @@
 [
   {
+    "date": "2024-03-13",
+    "seminars": [
+      {
+        "title": "Robotic Spacecraft Rendezvous with a Tumbling Target for Capture: Robust Methods for Planning and Control",
+        "speaker": {
+          "name": "Roberto Lampariello",
+          "affiliation": "DLR, Germany",
+          "url": "https://rmc.dlr.de/rm/de/staff/roberto.lampariello/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "As the amount of orbital debris grows so too does the need for on-orbit repair and deorbit solutions to avoid the occurrence of the cascading Kessler syndrome. A number of methods have been proposed for approaching and capturing defunct satellites and other high-value debris, based on autonomous planning and control. In this talk, recent developments in providing robustness to this autonomous operational approach are presented. A significant portion of the objects to be captured are tumbling with unknown angular orientation and rate. As such, the rendezvous and capture procedure for these tumbling objects is complex and must be performed in real-time, precluding human teleoperation. A series of autonomous functionalities will first be presented for the autonomous rendezvous of the robotic spacecraft with the tumbling target, including state estimation of the target motion, as well as NLP-based motion planning and robust MPC control for tracking. The robust MPC control, which leverages a tube-based approach, provides robustness to the uncertainty in the target motion prediction. Following, a robust online motion re-planning methodology will be presented, which can be applied to parametric optimal control problems of relevance to the robot capture task. A fully autonomous rendezvous pipeline was recently demonstrated in microgravity on resource-constrained ASTROBEE hardware on the ISS. Preparations for a robotic capture demonstration mission are currently ongoing within the EROSS IOD Peraspera project of the EU Horizon 2020 Space Programme. Future work is looking at the use of singularity maps within the NLP-based motion planning framework.​​​​​​​",
+        "bio": "Roberto Lampariello holds a B.Sc. degree in aerospace engineering from Southampton University, an M.Sc. degree in airplane aerodynamics from Cranfield University, a specialization degree in aerospace engineering from the University of Rome “La Sapienza” and a PhD on optimal motion planning for object interception and capture from the University of Darmstadt. He is employed as a researcher with the Robotics and Mechatronics Institute of the DLR in Germany, where he works in the fields of dynamics and control of free-flying space robots, in nonlinear programming-based robot motion planning and in robot autonomy. Since 2012 he is lecturer at the Technical University in Munich, for the course On-orbit Dynamics and Robotics. Since 2017 he is team leader of the On-Orbit Servicing Operations and Validation Team. He participated to different missions and mission studies, including the ETS-VII mission (JAXA, 1998), the DEOS (DLR, 2008-14), the e.Deorbit (ESA, 2015-16) and the EROSS IOD (EC, 2021-2024) mission studies and the TumbleDock mission (DLR/MIT/NASA, 2019-22). He is currently coordinating research activities involving different DLR institutes on the sustainability of the orbital environment.​​​​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-02-15",
     "seminars": [
       {
