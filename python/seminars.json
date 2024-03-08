@@ -3,6 +3,21 @@
     "date": "2024-03-13",
     "seminars": [
       {
+        "title": "Unified Game Theoretic based Framework for Autonomous Vehicle Decision-Making and Trajectory Generation.",
+        "speaker": {
+          "name": "Nihed Naidja",
+          "affiliation": "L2S",
+          "url": "https://scholar.google.com/citations?user=DFgPiWcAAAAJ&hl=fr"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "The mutual dependence between autonomous vehicles (AVs) and human drivers is an open problem for the safety and feasibility of autonomous driving The coexistence of autonomous and human-driven vehicles can lead to intricate interactions. Therefore, it's crucial for other traffic participants to comprehend the behavior of autonomous vehicles, as each agent's actions are interdependent and influenced by the decisions of others. In this presentation, we will introduce a game-theoretic trajectory planner and decision-maker designed for mixed-traffic environments. Our model considers other vehicles intentions, generates a human-like trajectory using the clothoid interpolation technique, and uses a solver based on Particle Swarm Optimization (PSO).",
+        "bio": "  Nihed Naidja is conducting her doctoral thesis on Decision Making, and Trajectory Generation for Autonomous Driving at Laboratoire des Signaux et Systéme (L2S), under the supervision of Guillaume Sandou and Stéphane Font. In parallel to her thesis, Nihed is currently an Autonomous Driving Research Engineer at VEDECOM Institute. She holds an engineering diploma in Automation and Control from the Algerian Petroleum Engineering Institute, and a master’s degree in Robotics from Paris Saclay University. Her research interests include intelligent transportation systems, control theory, decision making and motion planning for autonomous driving.​",
+        "file": ""
+      },
+      {
         "title": "Robotic Spacecraft Rendezvous with a Tumbling Target for Capture: Robust Methods for Planning and Control",
         "speaker": {
           "name": "Roberto Lampariello",
