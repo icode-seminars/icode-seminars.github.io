@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-04-11",
+    "seminars": [
+      {
+        "title": "A Gradient Descent-Ascent Method for Continuous-Time Risk-Averse Optimal Control",
+        "speaker": {
+          "name": "Gabriel Velho",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/velho-gabriel/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "In this presentation, we consider continuous-time stochastic optimal control problems where the cost is evaluated through a coherent risk measure. We provide an explicit gradient descent-ascent algorithm which applies to problems subject to non-linear stochastic differential equations. We then formulate necessary conditions of optimality for this relaxed problem which we leverage to prove convergence of the gradient descent-ascent algorithm to candidate solutions of the original problem. Finally, we showcase the efficiency of our algorithm through numerical simulations involving trajectory tracking problems.​​​​​​​",
+        "bio": "Gabriel Velho is conducting his doctoral thesis on the design of robust controllers for coupled partial differential equations and stochastic differential equations at Laboratoire des Signaux et Systèmes (L2S), under the supervision of Riccardo Bonalli and Jean Auriol. He holds an engineering diploma from Ecole Polytechnique, as well as a Master's degree in mathematical modeling from Sorbonne Université.​",
+        "file": ""
+      },
+      {
+        "title": "Risk Analysis of Stochastic Processes using Linear Programming",
+        "speaker": {
+          "name": "Jared Miller",
+          "affiliation": "ETH Zurich, Switzerland",
+          "url": "https://jarmill.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Modeling a dynamical system as a stochastic process allows for the propagation of uncertainty throughout time. Such stochasticity could originate in measurement errors, unknown environments, adverse dynamics (up to distributional assumptions), etc. This talk discusses methods to bound the risk of trajectories associated with this stochastic process over a finite time horizon. The output of such risk analysis could be used to compare and improve associated control laws. The three risk classes considered in this presentation are the probability of contacting the unsafe set, the maximum instantaneous value of a risk measure, and the maximum time-windowed value of a risk measure. In the context of a power system in which a distribution line is rated at 100 amps, the first risk class is the maximum probability that 100 amps will be reached by the stochastic process at some point in time. The second risk class could be the maximum mean or 90% CVaR of current along the line at any particular time. The third risk class would then be the maximum mean or 90% CVaR evaluated in any contiguous 5-minute time window (which is related to the heat dissipation capacity of the line). Each of these tasks will be solved by posing a primal-dual pair of infinite dimensional linear programs in occupation measures / continuous functions. The continuous function formulation of these risk measures have associations with prior work in stochastic barrier functions for safety and in value functions for stochastic control. Discretizations of these linear programs allow for the computation of a convergent sequence of upper-bounds to the true risk attained by stochastic trajectories. Challenges inherent in the control problems of minimizing these risk classes will also be discussed.​​​​​​​",
+        "bio": "Jared Miller is a postdoctoral researcher at the Automatic Control Lab, ETH Zurich, in the research group of Prof. Roy S. Smith. He received his B.S. and M.S. degrees in Electrical Engineering from Northeastern University in 2018 and his Ph.D. in Electrical Engineering from Northeastern University in 2023. He is a recipient of the 2020 Chateaubriand Fellowship from the Office for Science Technology of the Embassy of France in the United States. He was given an Outstanding Student Paper award at the IEEE Conference on Decision and Control in 2021 and in 2022, and was a finalist for the Young Author Award at the 2023 IFAC world congress. His current research topics include safety verification and data-driven control. His interests include large-scale convex optimization, nonlinear dynamics, measure theory, and power systems.​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-03-13",
     "seminars": [
       {
