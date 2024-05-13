@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-05-16",
+    "seminars": [
+      {
+        "title": "Low Voltage Distribution System State Estimation using Graph Neural Networks",
+        "speaker": {
+          "name": "Elio El Semaan",
+          "affiliation": "L2S and GeePs",
+          "url": "https://l2s.centralesupelec.fr/u/el-semaan-elio/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "Due to the rising penetration of distributed energy resources and electric vehicles charging stations, Distribution Systems Operators are facing higher challenges to effectively manage low voltage (LV) grids. To enhance the real-time monitoring of voltage magnitudes of these LV grids, the distribution system state estimator could be a good solution to be deployed. Conventional techniques for state estimation have been deployed for transmission systems and medium voltage distribution systems. However, their application to LV grids is challenged by the unbalance of these grids and the limited access to real-time measurements. Indeed, even with the widespread deployment of smart meters, real-time access to their measurements is limited due to communications constraints.Nonetheless, the availability of historical data from smart meters opens new possibilities for machine learning techniques. However, the application of classical machine learning techniques for the state estimation task is limited by a lack of knowledge of the physical aspect of the electrical systems. This leads to a machine learning model specialized to perform only on the grid whose historical data were used for training. The objective of the thesis is to explore machine learning techniques for LV state estimation with a focus in proposing a hybrid LV approach that combines machine learning techniques with the physical aspects of the distribution systems, towards a physics-informed neural network based LV state estimator.​​​​​​​",
+        "bio": "Elio El Semaan is conducting his doctoral thesis on low voltage distribution system state estimation at EDF R&D, Group of electrical engineering Paris (GeePs) and Laboratory of Signals and Systems (L2S), under the supervision of Philippe Dessante, Trung Dung Le and Alessio Iovine. He holds an engineering diploma from CentraleSupélec and Ecole Supérieur d'Ingénieurs de Beyrouth (Lebanon).​",
+        "file": ""
+      },
+      {
+        "title": "Agrégation et couplage de mesures grâce à des transformers",
+        "speaker": {
+          "name": "Borjan Geshkovski",
+          "affiliation": "Laboratoire Jacques-Louis Lions, Sorbonne Université",
+          "url": "https://borjang.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Le terme « transformer » désigne une architecture de réseaux de neurones profonds qui est très utilisée dans le traitement automatique des langues. Un transformer peut être modélisé comme un système de particules en interaction sur la sphère dans lequel apparaissent des contrôles multiplicatifs. Nous montrerons d'abord comment des agrégats apparaissent au fil du temps quand les contrôles sont judicieusement choisis. Nous montrerons ensuite que, grâce à ces contrôles, il est possible d'utiliser le flot généré par un transformer comme un couplage (non optimal) de plusieurs mesures.​​​​​​​",
+        "bio": "​Borjan Geshkovski is a junior researcher at Inria, within the Laboratoire Jacques-Louis Lions at Sorbonne Université. He was previously a postdoc at MIT under Philippe Rigollet and Laurent Demanet. He got his Ph.D. from the Universidad Autónoma de Madrid in 2021 under the supervision of Enrique Zuazua. He is interested in the interplay of partial differential equations and machine learning. ​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-04-11",
     "seminars": [
       {
