@@ -10,8 +10,8 @@
           "url": "https://mlauriere.github.io/"
         },
         "time": [
-          "14:00",
-          "15:00"
+          "15:30",
+          "16:30"
         ],
         "abstract": "We propose two methods to solve the master equation for finite-state mean field games (MFGs). Solving MFGs provides approximate Nash equilibria for stochastic, differential games with finite but large populations of agents. The master equation is a partial differential equation (PDE) whose solution characterizes MFG equilibria for any possible initial distribution. The first method we propose relies on backward induction while the second one directly tackles the PDE without discretizing time. For both approaches, we prove two types of results: there exist neural networks that make the loss functions of the algorithms arbitrarily small and, conversely, if the losses are small, then the neural networks are good approximations of the master equation solution. We conclude with numerical experiments on benchmark problems from the literature in dimension up to 15, and a comparison with solutions computed by a classical method for fixed initial distributions. This is joint work with Asaf Cohen and Ethan Zell (University of Michigan, Ann Arbor).​",
         "file": ""
