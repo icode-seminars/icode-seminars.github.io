@@ -1,5 +1,26 @@
 [
   {
+    "date": "2024-10-03",
+    "seminars": [
+      {
+        "title": "Linear quantum systems: poles, zeros, invertibility and sensitivity​​​​​",
+        "speaker": {
+          "name": "Guofeng Zhang",
+          "affiliation": "Hong Kong Polytechnic University",
+          "url": "https://www.polyu.edu.hk/en/ama/people/academic-staff/dr-zhang-guofeng"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "The non-commutative nature of quantum mechanics imposes fundamental constraints on system dynamics, which, in the linear realm, are manifested through the physical realizability conditions on system matrices. These restrictions give system matrices a unique structure. This paper aims to study this structure by investigating the zeros and poles of linear quantum systems. Firstly, it is shown that  -s_0 is a transmission zero if and only if  s_0 is a pole of the transfer function, and -s_0  is an invariant zero if and only if  s_0  is an eigenvalue of the  A-matrix, of a linear quantum system. Moreover,  s_0 is an output-decoupling zero if and only if -s_0 is an input-decoupling zero. Secondly, based on these zero-pole relations, it is proven that a linear quantum system must be Hurwitz unstable if it is strongly asymptotically left invertible. Stable input observers are constructed for unstable linear quantum systems. Finally, the sensitivity of a coherent feedback network is investigated. It is found that the well-known complementarity constraint between sensitivity and complementary sensitivity functions no longer holds in the quantum regime; instead, much richer fundamental performance limitations exist. The  fundamental tradeoff between ideal input squeezing and system robustness is studied on the basis of system sensitivity analysis.​",
+        "bio": "Guofeng Zhang received the Ph.D. degree in applied mathematics from the University of Alberta, Edmonton, AB, Canada, in 2005. He joined the University of Electronic Science and Technology of China, Chengdu, China, in 2007. He joined the Hong Kong Polytechnic University, Hong Kong, in December 2011, and is currently an Associate Professor. He is an Associate Editor of IET Control Theory and Applications, Guest Associate Editor of International Journal of Bifurcation and Chaos, 2015 IEEE Multi-Conference on Systems and Control, Sydney, Australia, September 21-23, 2015, and the Manage Guest Editor for the Special Issue on Quantum Control and Quantum Machine Learning for Journal of The Franklin Institute. His research interests include quantum control and tensor-based quantum computing.​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-07-18",
     "seminars": [
       {
