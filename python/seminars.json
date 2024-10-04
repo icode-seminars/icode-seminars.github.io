@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-10-10",
+    "seminars": [
+      {
+        "title": "Stabilization of Integral Delay Equations",
+        "speaker": {
+          "name": "Adam Braun",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/el-semaan-elio/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "In this presentation, we address the stabilization of Integral Delay Equations (IDE), a class of Time-Delay Systems for which the value of the state at a given time depends on its past values on a fixed time-window horizon. IDEs play a fundamental role in modeling physical dynamics involving transport phenomena. Specifically, we consider first a system for which the control input is subject to pointwise and distributed input delays. The proposed stabilizing control law is expressed using integrals of the state and of the input itself over a constant time horizon with gains derived from solving a system of Fredholm-type equations. Additionally, we investigate the case where the control input only acts on the system in a distributed way. The proposed initial approach incorporates a non-necessary condition (which is illustrated through a counterexample), which we aim to eliminate.  Consequently, we propose an alternative approach trying to get rid of this condition. As part of the preparation for a doctoral thesis, we show how this analysis can be extended to the case of IDE systems with multiple state delays.​​​​​​",
+        "bio": "Adam Braun is a first year PhD student at L2S, under the supervision of Jean Auriol and Luca Brivadis​",
+        "file": ""
+      },
+      {
+        "title": "TBD",
+        "speaker": {
+          "name": "Christophe Roman",
+          "affiliation": "Laboratoire d'Informatique et des Systemes (LIS)",
+          "url": "https://www.lis-lab.fr/diapro/#18"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "The main part of this presentation will focus on the analysis of the wave equation with sign non-linearity at the boundary, specifically addressing questions related to the well-posedness, regularity, and decay rates of solutions. A special emphasis will be placed on the one-dimensional wave equation u_tt=u_xx−qu_t​, subject to dynamic boundary conditions involving sign non-linearity through the sgn() function. A central aspect of the analysis is the characterization of the maximal operator responsible for the well-posedness and regularity of the solutions. This operator is equivalent to an m-accretive operator, ensuring that the problem can be solved within an appropriate functional framework. Well-posedness refers to the existence, uniqueness, and continuous dependence of solutions on initial and boundary data. To investigate the long-term behavior of solutions, the presentation will delve into the use of the multiplier method to analyze decay rates. This technique involves multiplying the wave equation by specific test functions to derive energy identities and inequalities, allowing for the determination of exponential or polynomial energy decay, depending on the nature of the non-linearity and boundary conditions. In addition to these technical results, a broader discussion will highlight the significance of the wave equation in the context of other partial differential equations (PDEs). In particular, we will explore how the wave equation relates to the heat equation u_t=u_xx​, the beam equation u_tt=u_xxxx​, first-order hyperbolic equations, and the Navier-Stokes equations.​",
+        "bio": " ​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-10-03",
     "seminars": [
       {
