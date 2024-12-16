@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-11-14",
+    "seminars": [
+      {
+        "title": "Asymptotics of motion planning complexity for control-affine systems​​​​​",
+        "speaker": {
+          "name": "Michele Motta",
+          "affiliation": "SISSA Trieste",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "Given a control system, the motion planning complexity of a curve is a notion that quantifies how hard is to approximate, up to a small error, the given curve with admissible trajectories of our system. In our work, we consider control-affine systems satisfying the strong Hörmander condition and we provide precise asymptotic for motion planning complexity as the approximation error tends to 0, extending some previously known results for control linear systems. This is a joint work with Dario Prandi.​",
+        "bio": " Michele Motta is a PhD student from SISSA Trieste in Italy working under the guidance of Luca Rizzi and Andrei Agrachev. His primary research interests are motion planning problems, Sub-Riemannian geometry and affine control systems. ​​​​",
+        "file": ""
+      },
+      {
+        "title": "Optimization of adiabatic control strategies for quantum systems​​​​​",
+        "speaker": {
+          "name": "Nicolas Augier",
+          "affiliation": "LAAS-CNRS",
+          "url": "https://sites.google.com/view/nicolas-augier-cmap/home"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "In this talk, we will start by introducing some classical tools of adiabatic control for quantum systems. Then we will focus on their optimization via the design of control paths following some special curves in the space of controls called “non-mixing curves”. The latter are integral curves of a line field, i.e. which associates a direction to each point of the plane, outside of a singular set that we will describe. ​",
+        "bio": "After defending in 2019 his PhD on the control of quantum systems under the supervision of Ugo Boscain and Mario Sigalotti at École Polytechnique and Sorbonne Université , Nicolas Augier did two postdocs in Nice and Toulouse before joining the LAAS in 2022 as a Junior CNRS Researcher. His (broad) research interests include notably the controllability and optimal control of classical and quantum dynamical systems, as well as the investigation of measure relaxations of variational problems in such contexts, both from a practical and theoretical standpoint.​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-10-03",
     "seminars": [
       {
