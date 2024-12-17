@@ -1,5 +1,113 @@
 [
   {
+    "date": "2025-03-13",
+    "seminars": [
+      {
+        "title": "​​​​​",
+        "speaker": {
+          "name": "TBD",
+          "affiliation": "L2S",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​​",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "ELF: Federated Langevin Algorithms with Primal, Dual and Bidirectional Compression",
+        "speaker": {
+          "name": "Avetik Karagulyan",
+          "affiliation": "L2S",
+          "url": "https://avetx.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Federated sampling algorithms have recently gained great popularity in the community of machine learning and statistics. This paper studies variants of such algorithms called Error Feedback Langevin algorithms (ELF). In particular, we analyze the combinations of EF21 and EF21-P with the federated Langevin Monte-Carlo. We propose three algorithms: P-ELF, D-ELF, and B-ELF that use, respectively, primal, dual, and bidirectional compressors. We analyze the proposed methods under Log-Sobolev inequality and provide non-asymptotic convergence guarantees. ​",
+        "bio": " am a Research Scientist at CNRS/L2S. Previously, I was a PostDoctoral fellow at KAUST in the team of professor Peter Richtárik. I have defended my thesis at Center of Research in Economics and STatistics (CREST), Paris under the supervision of professor Arnak Dalalyan. In 2018, I received my MSc Mathematics, Vision, Learning (MVA) diploma at ENS Paris-Saclay. I graduated from Yerevan State University's faculty of Mathematics and Mechanics in 2017. My research focuses on the study of different methods of sampling and their connections to optimization​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
+    "date": "2025-02-13",
+    "seminars": [
+      {
+        "title": "​​​​​",
+        "speaker": {
+          "name": "Avinash Kumar",
+          "affiliation": "L2S",
+          "url": "https://sites.google.com/view/avishimpu/home"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​​",
+        "bio": "​Avinash Kumar works in the area of control systems particularly in the mathematical control theory. The specific areas include- optimal and suboptimal control theory, linear matrix inequalities, multi-agent control design problems and structured control.",
+        "file": ""
+      },
+      {
+        "title": "Identifying low dimensional systems from high dimensional observations",
+        "speaker": {
+          "name": "Corbinian Schlosser",
+          "affiliation": "INRIA Paris",
+          "url": "http://corbischlosser.site/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": " Motivated by the increasing resolution of data, we address the problem of identifying low-dimensional autonomous systems observed via high-dimensional measurements. We do not assume prior knowledge of the latent dimension or its dynamics. However, we assume the measurements are obtained from the latent state via an injective map. As a consequence, the observations also follow an autonomous dynamical system. This observation builds our starting point for reducing the non-linear identification problem towards a (tractable) convex optimization problem. We discuss different obstacles that came across our route, several limiting factors, and situations for which our approach provides feasible solutions to the identification problem. This is joint and ongoing work with Francis Bach and Alessandro Rudi.​",
+        "bio": "My scientific interests lie in the interplay between dynamical systems, functional analysis, and optimization. The central objects/fields that appear in my work are notably the Koopman and Perron-Frobenius operator, occupation measures, and polynomial optimization. I have an interest in sparsity and its applications towards reducing complexity. ​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
+    "date": "2025-01-16",
+    "seminars": [
+      {
+        "title": "Stabilization of Integral Delay Equations​​​​​",
+        "speaker": {
+          "name": "Adam Braun",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/braun-adam/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "In this presentation, we address the stabilization of Integral Delay Equations (IDE), a class of Time-Delay Systems for which the value of the state at a given time depends on its past values on a fixed time-window horizon. IDEs play a fundamental role in modeling physical dynamics involving transport phenomena. Specifically, we consider first a system for which the control input is subject to pointwise and distributed input delays. The proposed stabilizing control law is expressed using integrals of the state and of the input itself over a constant time horizon with gains derived from solving a system of Fredholm-type equations. Additionally, we investigate the case where the control input only acts on the system in a distributed way. The proposed initial approach incorporates a non-necessary condition (which is illustrated through a counterexample), which we aim to eliminate.  Consequently, we propose an alternative approach trying to get rid of this condition. As part of the preparation for a doctoral thesis, we show how this analysis can be extended to the case of IDE systems with multiple state delays.​​​​​​",
+        "bio": " Adam Braun is PhD student at L2S ​​​under the supervision of Jean Auriol and Lucas Brivadis​",
+        "file": ""
+      },
+      {
+        "title": "Un flot de gradient sur l'espace des contrôles avec condition initiale irrégulière​​​​​",
+        "speaker": {
+          "name": "Paul Gassiat",
+          "affiliation": "CEREMADE (Paris Dauphine)",
+          "url": "https://www.ceremade.dauphine.fr/~gassiat/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": " On considère un problème de contrôle consistant à trouver une trajectoire reliant un point initial x à un point cible y, le système se déplaçant uniquement dans certaines directions admissibles. On suppose que les champs de vecteurs correspondants satisfont la condition de Hörmander, de telle sorte que par un théorème classique (Chow-Rashevskii), il existe des trajectoires qui satisfont cette contrainC'te. Une manière naturelle d'essayer de résoudre ce problème est via un flot de gradient sur l'espace des contrôles. Cependant, la dynamique correspondante peut avoir des point-selles, et pour obtenir un résultat de convergence il faut donc faire des hypothèses (par exemple probabilistes) sur la condition initiale. Dans ce travail, nous considérons le cas où cette initialisation est irrégulière, que nous formulons grâce à la théorie des trajectoires rugueuses de Lyons. Dans des cas simples, on prouve que le flot de gradient converge vers une solution, si la condition initiale est une trajectoire d'un mouvement Brownien (ou d'un processus de régularité plus faible). La preuve combine des idées de calcul de Malliavin avec des inégalités de Łojasiewicz. Une motivation possible pour nos travaux vient de l'entraînement de réseaux de neurones résiduels profonds, dans un régime où le nombre de paramètres par couche est fixé, et la dimension du vecteur de données est élevée. Il s'agit d'un travail en collaboration avec Florin Suciu (Paris Dauphine).​",
+        "bio": "Paul Gassiat est maître de conférences au CEREMADE (Paris Dauphine) depuis 2015. Ses travaux de recherche se concentrent sur l'étude de processus probabilistes à trajectoires irrégulières, via des outils modernes d'analyse stochastique tels que les trajectoires rugueuses. Les questions soulevées par ses travaux concernent notamment la simulation numérique de ces modèles, ainsi que l'étude de leurs propriétés qualitatives spécifiques. Les applications de ses recherches sont variées, incluant la modélisation de la volatilité des actifs financiers et l'optimisation de réseaux de neurones artificiels.​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2024-11-14",
     "seminars": [
       {
