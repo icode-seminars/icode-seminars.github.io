@@ -1,5 +1,41 @@
 [
   {
+    "date": "2025-04-10",
+    "seminars": [
+      {
+        "title": "TBD​​​​​",
+        "speaker": {
+          "name": "TBD",
+          "affiliation": "L2S",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​​",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "",
+        "speaker": {
+          "name": "Mike Pereira",
+          "affiliation": "Mines Paris - PSL University, Department of Geosciences and Geoengineering",
+          "url": "https://mike-pereira.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "​",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2025-03-13",
     "seminars": [
       {
@@ -49,8 +85,8 @@
           "13:40",
           "14:00"
         ],
-        "abstract": "​​​​​​",
-        "bio": "​Avinash Kumar works in the area of control systems particularly in the mathematical control theory. The specific areas include- optimal and suboptimal control theory, linear matrix inequalities, multi-agent control design problems and structured control.",
+        "abstract": "​​​​​Control design for multi-agent systems has gained utmost interest among theorists and practitioners in different forms of achieving application-dependent control objectives. One of the most important problems in the coordination control of multi-agent systems is the consensus protocol design problem, also known as the agreement problem. In this talk we shall discuss a new technique for suboptimal consensus protocol design for a class of multi-agent systems. The technique is based upon the linear matrix inequalities which at the first place were analyzed for the linear quadratic problems. For suboptimal consensus protocol design, the structural requirements on the overall feedback gain matrix, which are inherently imposed by agents dynamics and their interaction topology, are recast on a specific matrix introduced in a suitably formulated convex optimization problem. As a result, preassigning the identical feedback gain matrices to a network of homogeneous agents, which act on the relative state variables with respect to their neighbors is not required. We shall see how the suboptimality of the computed control laws can be quantified by implicitly deriving an upper bound on the cost in terms of the solution of a convex optimization problem and initial conditions of the agents instead of specifying it a priori.​",
+        "bio": "​Avinash Kumar works as a postdoc researcher at L2S, CentraleSupelec with Professors William Pasillas-Lepine and Lucas Greco, trying to develop the techniques to control the air-flow in ventilation systems. Prior to this, he has worked at Telecom Sudparis in the area of convex optimization algorithms (namely ADMM). He has completed his PhD in 2022 from IIT Mandi, India where he worked in the area of optimal control design using Krotov framework.",
         "file": ""
       },
       {
