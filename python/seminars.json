@@ -54,7 +54,7 @@
         "file": ""
       },
       {
-        "title": "ELF: Federated Langevin Algorithms with Primal, Dual and Bidirectional Compression",
+        "title": "SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction for Non-convex Cross-Device Federated Learning",
         "speaker": {
           "name": "Avetik Karagulyan",
           "affiliation": "L2S",
@@ -64,8 +64,8 @@
           "14:00",
           "15:00"
         ],
-        "abstract": "Federated sampling algorithms have recently gained great popularity in the community of machine learning and statistics. This paper studies variants of such algorithms called Error Feedback Langevin algorithms (ELF). In particular, we analyze the combinations of EF21 and EF21-P with the federated Langevin Monte-Carlo. We propose three algorithms: P-ELF, D-ELF, and B-ELF that use, respectively, primal, dual, and bidirectional compressors. We analyze the proposed methods under Log-Sobolev inequality and provide non-asymptotic convergence guarantees. ​",
-        "bio": " am a Research Scientist at CNRS/L2S. Previously, I was a PostDoctoral fellow at KAUST in the team of professor Peter Richtárik. I have defended my thesis at Center of Research in Economics and STatistics (CREST), Paris under the supervision of professor Arnak Dalalyan. In 2018, I received my MSc Mathematics, Vision, Learning (MVA) diploma at ENS Paris-Saclay. I graduated from Yerevan State University's faculty of Mathematics and Mechanics in 2017. My research focuses on the study of different methods of sampling and their connections to optimization​​​​",
+        "abstract": "Cross-device training is a crucial subfield of federated learning, where the number of clients can reach the billions. Standard approaches and local methods are prone to client drift and insensitivity to data similarities. We propose a novel algorithm (SPAM) for cross-device federated learning with non-convex and non-smooth losses. We provide a sharp analysis under second-order (Hessian) similarity, a condition satisfied by various machine learning problems in practice. Additionally, we extend our results to the partial participation setting, where a cohort of selected clients communicate with the server at each communication round. We then conduct a complexity analysis of our convergence results, showing the improvement of our methods upon prior work.​",
+        "bio": "I am a Research Scientist at CNRS/L2S. Previously, I was a PostDoctoral fellow at KAUST in the team of professor Peter Richtárik. I have defended my thesis at Center of Research in Economics and STatistics (CREST), Paris under the supervision of professor Arnak Dalalyan. In 2018, I received my MSc Mathematics, Vision, Learning (MVA) diploma at ENS Paris-Saclay. I graduated from Yerevan State University's faculty of Mathematics and Mechanics in 2017. My research focuses on the study of different methods of sampling and their connections to optimization.​​​​",
         "file": ""
       }
     ],
