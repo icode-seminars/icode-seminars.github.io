@@ -51,7 +51,7 @@
         ],
         "abstract": "​​​​​​We propose an observer design for a 3-dimensional model of cortical activity dynamics in the visual cortex, under the measurement of the averaged activity. It is based on the construction of an embedding of the system into a triangular 4-dimensional system where the dynamics are not Lipschitz continuous but bear Hölder-continuity properties allowing us to implement a sliding mode observer. We discuss stability of the convergence of the observer with respect to relevant perturbations and provide simulations illustrating the method",
         "bio": "Adel Malik ANNABI is a PhD student at University Côte d'Azur and Inria, working under the supervision of Jean-Baptiste Pomet, Dario Prandi and Ludovic Sacchelli. His research focuses on identification, observability and observer design of non-linear systems, mean-field analysis and modeling of brain activity.​",
-        "file": ""
+        "file": "2025-03-13-Annabi.pdf"
       },
       {
         "title": "SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction for Non-convex Cross-Device Federated Learning",
@@ -66,7 +66,7 @@
         ],
         "abstract": "Cross-device training is a crucial subfield of federated learning, where the number of clients can reach the billions. Standard approaches and local methods are prone to client drift and insensitivity to data similarities. We propose a novel algorithm (SPAM) for cross-device federated learning with non-convex and non-smooth losses. We provide a sharp analysis under second-order (Hessian) similarity, a condition satisfied by various machine learning problems in practice. Additionally, we extend our results to the partial participation setting, where a cohort of selected clients communicate with the server at each communication round. We then conduct a complexity analysis of our convergence results, showing the improvement of our methods upon prior work.​",
         "bio": "I am a Research Scientist at CNRS/L2S. Previously, I was a PostDoctoral fellow at KAUST in the team of professor Peter Richtárik. I have defended my thesis at Center of Research in Economics and STatistics (CREST), Paris under the supervision of professor Arnak Dalalyan. In 2018, I received my MSc Mathematics, Vision, Learning (MVA) diploma at ENS Paris-Saclay. I graduated from Yerevan State University's faculty of Mathematics and Mechanics in 2017. My research focuses on the study of different methods of sampling and their connections to optimization.​​​​",
-        "file": ""
+        "file": "2025-03-13-Karagulyan.pdf"
       }
     ],
     "place": "L2S, IBM building, 3rd floor"
@@ -87,7 +87,7 @@
         ],
         "abstract": "​​​​​Control design for multi-agent systems has gained utmost interest among theorists and practitioners in different forms of achieving application-dependent control objectives. One of the most important problems in the coordination control of multi-agent systems is the consensus protocol design problem, also known as the agreement problem. In this talk we shall discuss a new technique for suboptimal consensus protocol design for a class of multi-agent systems. The technique is based upon the linear matrix inequalities which at the first place were analyzed for the linear quadratic problems. For suboptimal consensus protocol design, the structural requirements on the overall feedback gain matrix, which are inherently imposed by agents dynamics and their interaction topology, are recast on a specific matrix introduced in a suitably formulated convex optimization problem. As a result, preassigning the identical feedback gain matrices to a network of homogeneous agents, which act on the relative state variables with respect to their neighbors is not required. We shall see how the suboptimality of the computed control laws can be quantified by implicitly deriving an upper bound on the cost in terms of the solution of a convex optimization problem and initial conditions of the agents instead of specifying it a priori.​",
         "bio": "​Avinash Kumar works as a postdoc researcher at L2S, CentraleSupelec with Professors William Pasillas-Lepine and Lucas Greco, trying to develop the techniques to control the air-flow in ventilation systems. Prior to this, he has worked at Telecom Sudparis in the area of convex optimization algorithms (namely ADMM). He has completed his PhD in 2022 from IIT Mandi, India where he worked in the area of optimal control design using Krotov framework.",
-        "file": "2025-01-16-Kumar.pdf"
+        "file": "2025-02-13-Kumar.pdf"
       },
       {
         "title": "Identifying low dimensional systems from high dimensional observations",
@@ -102,7 +102,7 @@
         ],
         "abstract": " Motivated by the increasing resolution of data, we address the problem of identifying low-dimensional autonomous systems observed via high-dimensional measurements. We do not assume prior knowledge of the latent dimension or its dynamics. However, we assume the measurements are obtained from the latent state via an injective map. As a consequence, the observations also follow an autonomous dynamical system. This observation builds our starting point for reducing the non-linear identification problem towards a (tractable) convex optimization problem. We discuss different obstacles that came across our route, several limiting factors, and situations for which our approach provides feasible solutions to the identification problem. This is joint and ongoing work with Francis Bach and Alessandro Rudi.​",
         "bio": "Corbinian Schlosser graduated from his Bachelor studies in mathematics at the University Ulm in 2016. In 2019 he received his masters degrees from University Ulm and University Innsbruck before joining LAAS-CNRS at Toulouse in 2020 for his doctoral studies under the supervision of Milan Korda and Pierre Weiss. Since 2023 he is postdoc at Inria Paris Centre supervised by Francis Bach and Alessandro Rudi.​​​​",
-        "file": "2025-02-13-Schlosser"
+        "file": "2025-02-13-Schlosser.pdf"
       }
     ],
     "place": "L2S, IBM building, 3rd floor"
