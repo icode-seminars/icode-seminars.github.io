@@ -3,7 +3,7 @@
     "date": "2025-04-10",
     "seminars": [
       {
-        "title": "TBD​​​​​",
+        "title": "Sensitivity analysis for the Chemical Master Equation",
         "speaker": {
           "name": "Arthur Bottois",
           "affiliation": "L2S",
@@ -13,8 +13,8 @@
           "13:40",
           "14:00"
         ],
-        "abstract": "​​​​​​",
-        "bio": "​",
+        "abstract": "​​​​​​The Chemical Master Equation (CME) is the stochastic counterpart of the chemical kinetic equation based on the law of mass action. When the number of molecules involved is reduced, to better reproduce the real behaviour of a chemical system, we need to take into account the intrinsic stochastic nature of the chemical reactions in the model. Indeed, due to the Brownian motion of the molecules, the instant at which a particular reaction occurs is random. Thus, we consider the trajectories of the chemical system as realizations of a continuous-time Markov chain. The CME is then the equation satisfied by the law of this Markov chain. It consists of a countably infinite collection of coupled differential equations. The CME is commonly used to describe biochemical mechanisms in cell biology, such as gene regulatory network. In some situations, we can act globally on the reaction rates through control procedures (e.g. light stimuli, temperature variations). It then allows to formulate optimal control problems for the CME. For instance, we may want to maximize the production of some protein of interest. To study these control problems and especially to derive the associated optimality conditions, we discuss how to perform a sensitivity analysis of the solution of the CME with respect to the reaction rates.",
+        "bio": "Arthur Bottois works with Laurent Pfeiffer as a postdoc researcher for INRIA at L2S, CentraleSupélec. This postdoc takes place within the joint ANR project OPT-MC (OPTimal control of Markov Chains & OPTogenetics control of Microbial Communities) between DISCO and LIFEWARE teams. He studies optimal control problems applied to the Chemical Master Equation and their numerical resolution. Previously, he completed his PhD in 2022 from Université Clermont Auvergne, where he worked on exact controllability results for the wave equation and robust numerical approximations of the control.​",
         "file": ""
       },
       {
