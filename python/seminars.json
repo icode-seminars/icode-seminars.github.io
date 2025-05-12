@@ -1,5 +1,41 @@
 [
   {
+    "date": "2025-05-27",
+    "seminars": [
+      {
+        "title": "",
+        "speaker": {
+          "name": "Naomi Mona Chmielewski",
+          "affiliation": "L2S - EDF",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "",
+        "speaker": {
+          "name": "Sreejith Sreekumar",
+          "affiliation": "L2S",
+          "url": ""
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "​",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2025-04-10",
     "seminars": [
       {
