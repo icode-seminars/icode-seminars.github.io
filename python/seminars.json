@@ -1,39 +1,24 @@
 [
   {
-    "date": "2025-05-27",
+    "date": "2025-05-28",
     "seminars": [
       {
-        "title": "",
-        "speaker": {
-          "name": "Naomi Mona Chmielewski",
-          "affiliation": "L2S - EDF",
-          "url": ""
-        },
-        "time": [
-          "13:40",
-          "14:00"
-        ],
-        "abstract": "​​​​​",
-        "bio": "​",
-        "file": ""
-      },
-      {
-        "title": "",
+        "title": "Distributed Statistical Inference under Constraints - Fundamental Limits and Variational Methods",
         "speaker": {
           "name": "Sreejith Sreekumar",
           "affiliation": "L2S",
           "url": ""
         },
         "time": [
-          "14:00",
-          "15:00"
+          "14:30",
+          "15:30"
         ],
-        "abstract": "​",
+        "abstract": "Networked intelligent systems powered by machine learning algorithms are anticipated to revamp much of existing technology in the coming years. Such systems typically have to operate under various constraints such as communication, computation, latency and privacy of sensitive information. Hence, an understanding of their fundamental limitations and capabilities is of utmost importance for efficient and secure implementation. In this talk, I will touch upon some aspects of distributed statistical inference under constraints focusing on the simplest setting of binary hypothesis testing. Specifically, I will discuss some scenarios where optimal asymptotic performance under communication and privacy constraints can be characterized. Then, I will consider the problem of estimation of statistical divergences using neural nets based on variational methods. These divergences play an important role in inference problems in terms of characterizing fundamental performance limits, and also appear as optimization metrics in a variety of applications such as generative modelling and anomaly detection. Interestingly, neural networks can be shown to achieve the minimax risk in estimating divergences over a sufficiently rich class of distributions. I will also discuss the utility of variational methods to obtain novel tail inequalities for divergence estimators, which has potential applications to physical layer security.​",
         "bio": "",
         "file": ""
       }
     ],
-    "place": "L2S, IBM building, 3rd floor"
+    "place": "Amphi III, Eiffel"
   },
   {
     "date": "2025-04-10",
