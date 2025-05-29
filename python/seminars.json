@@ -1,5 +1,26 @@
 [
   {
+    "date": "2025-06-23",
+    "seminars": [
+      {
+        "title": "Robust stabilization to limit cycles of switching discrete-time affine systems using control Lyapunov functions",
+        "speaker": {
+          "name": "Marc Jungers",
+          "affiliation": "CRAN, CNRS, Université de Lorraine",
+          "url": "http://w3.cran.univ-lorraine.fr/perso/marc.jungers/"
+        },
+        "time": [
+          "16:00",
+          "17:00"
+        ],
+        "abstract": "This talk deals with the robust stabilization of uncertain discrete-time switched affine systems using a control Lyapunov function approach and a min-switching state-feedback control law. After presenting some preliminaries on cycles and limit cycles, a constructive stabilization theorem is provided and guarantees that the solutions to the nominal closed-loop system converge to a limit cycle. These conditions are expressed in terms of simple Linear Matrix Inequalities (LMI), whose underlying necessary conditions relax the usual one in this literature. This method is extended to the case of uncertain systems, for which the notion of limit cycle needs to be adapted. The theoretical results are evaluated on academic examples and demonstrate the potential of the method over the recent literature. This is a common work with Mathias Serieye, Carolina Albea and Alexandre Seuret.​",
+        "bio": "Marc Jungers entered the Ecole Normale Supérieure of Cachan (ENS Cachan, France, now ENS Paris-Saclay) in 1999. He received the « Agrégation » in Applied Physical Science in 2002, the Master’s Degree in Automatic Control in 2003 from ENS Cachan and University Paris Sud, the Ph.D. Degree from ENS Cachan in September 2006 and the Habilitation to Conduct Researches Degree from Université de Lorraine in 2013. Since 2007, he joined the CNRS (National Center for Scientific Research) and the CRAN (Nancy, France, Université de Lorraine - CNRS) as junior CNRS researcher and since 2017 as senior CNRS researcher to develop research activities in control theory. His research interests include robust control, coupled Riccati equations and switched and hybrid systems. He served as associate editor for Nonlinear Analysis: Hybrid Systems (NAHS) and the Conference Editorial Board of the IEEE Control Systems Society (CEB CSS), serves as associate editor for IEEE Control Systems Letters (L-CSS) and Systems & Control Letters (SCL) and is member of IEEE.",
+        "file": ""
+      }
+    ],
+    "place": "Amphi III, Eiffel"
+  },
+  {
     "date": "2025-05-28",
     "seminars": [
       {
