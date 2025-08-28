@@ -1,21 +1,29 @@
 [
   {
-    "date": "2025-07-04",
+    "date": "2025-09-09",
     "seminars": [
       {
-        "title": "To be announced",
+        "title": "Incremental global asymptotic stability is all you need",
         "speaker": {
-          "name": "To be announced",
-          "affiliation": "",
-          "url" : ""
+          "name": "Rui Kato",
+          "affiliation": "LAGEPP, Université Claude Bernard Lyon 1",
+          "url": "https://sites.google.com/view/rui-kato/"
         },
         "time": [
-          "13:40",
-          "14:00"
+          "15:30",
+          "16:30"
         ],
-        "abstract": "To be announced",
-        "bio": "To be announced"
-      },
+        "abstract": "In this talk, we refine the definition of incremental global asymptotic stability in a thoroughly general setting. Then, we present a set of necessary conditions and demonstrate that incremental global asymptotic stability implies several desirable properties. By using some examples, we discuss the relation between incremental and non-incremental stability notions. Finally, we pose an open question concerning the existence of a Riemannian metric that induces a fiber contraction and incremental stability.",
+        "bio": "Rui KATO is a researcher in control theory. He received a Doctor of Engineering degree from the Tokyo Institute of Technology, Japan, in 2024. He is currently a postdoctoral fellow at the LAGEPP, Université Claude Bernard Lyon 1, France. His research primarily focuses on stability of dynamical systems and control with limited information.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
+
+  {
+    "date": "2025-07-04",
+    "seminars": [
       {
         "title": "Data-driven verification and control of cyber-physical systems",
         "speaker": {
