@@ -36,6 +36,48 @@
     "place": "L2S, IBM building, 3rd floor"
   },
   {
+    "date": "2025-09-09",
+    "seminars": [
+      {
+        "title": "Incremental global asymptotic stability is all you need",
+        "speaker": {
+          "name": "Rui Kato",
+          "affiliation": "LAGEPP, Université Claude Bernard Lyon 1",
+          "url": "https://sites.google.com/view/rui-kato/"
+        },
+        "time": [
+          "15:30",
+          "16:30"
+        ],
+        "abstract": "In this talk, we refine the definition of incremental global asymptotic stability in a thoroughly general setting. Then, we present a set of necessary conditions and demonstrate that incremental global asymptotic stability implies several desirable properties. By using some examples, we discuss the relation between incremental and non-incremental stability notions. Finally, we pose an open question concerning the existence of a Riemannian metric that induces a fiber contraction and incremental stability.",
+        "bio": "Rui KATO is a researcher in control theory. He received a Doctor of Engineering degree from the Tokyo Institute of Technology, Japan, in 2024. He is currently a postdoctoral fellow at the LAGEPP, Université Claude Bernard Lyon 1, France. His research primarily focuses on stability of dynamical systems and control with limited information. ",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
+    "date": "2025-07-04",
+    "seminars": [
+      {
+        "title": "Data-driven verification and control of cyber-physical systems",
+        "speaker": {
+          "name": "Majid Zamani",
+          "affiliation": "University of Colorado Boulder",
+          "url": "https://sites.google.com/site/zamani1362/home"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "In this talk, we explore data-driven approaches to the verification and control of cyber-physical systems (CPS), with an emphasis on achieving formal guarantees, particularly in safety-critical applications. Traditional methods rely on precise closed-form models and significant manual effort, which hinders scalability and adaptability. In contrast, our framework leverages data from system behavior to enable formal verification and the synthesis of correct-by-design controllers, even in the absence of complete or accurate models. At the core of our approach are data-driven optimization techniques and neural networks, which facilitate the construction of barrier and closure certificates—key tools for certifying safety and synthesizing controllers directly from empirical data. We further employ transfer learning to extend safety assurances across varying system configurations and operational domains. A theoretical validity condition ensures that the transferred controllers uphold the required formal properties in the target system. This data-driven pipeline not only reduces reliance on manual modeling and expert knowledge but also significantly enhances the scalability and flexibility of verification and control for autonomous systems.​",
+        "bio": "Majid Zamani is an Associate Professor in the Computer Science Department at the University of Colorado Boulder. From May 2014 to January 2019, he was an Assistant Professor in the Department of Electrical Engineering at the Technical University of Munich. He holds a Ph.D. in Electrical Engineering and an M.A. in Mathematics from the University of California, Los Angeles (UCLA) (2012), an M.Sc. in Electrical Engineering from Sharif University of Technology (2007), and a B.Sc. in Electrical Engineering from Isfahan University of Technology (2005). Dr. Zamani’s contributions to control theory and cyber-physical systems have been recognized with several awards, including the George S. Axelby Outstanding Paper Award from the IEEE Control Systems Society (2023), the NSF CAREER Award (2022), and both an ERC Starting Grant (2018) and an ERC Proof of Concept Grant (2023) from the European Research Council. He has served as Program Chair and General Chair for various conferences and workshops in control theory and formal methods, including Numerical Software Verification (NSV) and IFAC Conference on Analysis and Design of Hybrid Systems (ADHS). He is currently a steering committee member for ADHS, the Chair of the IEEE Technical Committee on Hybrid Systems, and an Associate Editor for both the IEEE Transactions on Automatic Control and Discrete Event Dynamic Systems. ",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
     "date": "2025-06-03",
     "seminars": [
       {
