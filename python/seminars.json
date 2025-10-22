@@ -1,5 +1,41 @@
 [
   {
+    "date": "2025-11-04",
+    "seminars": [
+      {
+        "title": "A noncooperative multi-objective differential game for assistive shared control",
+        "speaker": {
+          "name": "Renaud Vallette",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/vallette-renaud/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​​In user–robot interactions, shared control provides supportive control actions that enhance task performance and user experience. In this work, we aim to develop shared control strategies for a 4-DoF mouse limb prosthesis actuated via a bidirectional brain–machine interface (BMI). Within a differential game-theoretic framework, we formulate a noncooperative game to manage multiple, potentially conflicting objectives, including user assistance, safety, and haptic exploration. For the prosthesis control scenario, the shared control strategy is designed to operate without prior knowledge of the user’s intended task. As an initial experimental step, we propose a simplified 1-DoF human-in-the-loop shared control setup to evaluate the approach.",
+        "bio": "Renaud Vallette is a PhD student at L2S, Centralesupélec, working under the supervision of Maria Makarov (L2S), Antoine Chaillet (L2S) and Luc Estebanez (NeuroPSI). This thesis takes place within the ANR project HERMIN (Haptic Exploration and Reflex Motor control In a Neuroprosthesis). His research focuses on game theoretical shared control for robotic applications.​",
+        "file": ""
+      },
+      {
+        "title": "",
+        "speaker": {
+          "name": "Clément Moreau",
+          "affiliation": "LS2N-CNRS",
+          "url": "https://clementmoreau.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "​",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2025-06-03",
     "seminars": [
       {
