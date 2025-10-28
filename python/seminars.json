@@ -1,5 +1,41 @@
 [
   {
+    "date" : "2025-11-04",
+    "seminars": [
+      {
+        "title": "A noncooperative multi-objective differential game for assistive shared control",
+        "speaker": {
+          "name": "Renaud Vallette",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/vallette-renaud/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "In user–robot interactions, shared control provides supportive control actions that enhance task performance and user experience. In this work, we aim to develop shared control strategies for a 4-DoF mouse limb prosthesis actuated via a bidirectional brain–machine interface (BMI). Within a differential game-theoretic framework, we formulate a noncooperative game to manage multiple, potentially conflicting objectives, including user assistance, safety, and haptic exploration. For the prosthesis control scenario, the shared control strategy is designed to operate without prior knowledge of the user's intended task. As an initial experimental step, we propose a simplified 1-DoF human-in-the-loop shared control setup to evaluate the approach.",
+        "bio": "Renaud Vallette is a PhD student at L2S, CentraleSupélec, working under the supervision of Maria Makarov (L2S), Antoine Chaillet (L2S), and Luc Estebanez (NeuroPSI). This thesis takes place within the ANR project HERMIN (Haptic Exploration and Reflex Motor control In a Neuroprosthesis). His research focuses on game theoretical shared control for robotic applications.",
+        "file": ""
+      },
+      {
+        "title": "A promenade in microscopic locomotion and controllability of affine systems",
+        "speaker": {
+          "name": "Clément Moreau",
+          "affiliation": "Laboratoire des Sciences du Numérique de Nantes, LS2N",
+          "url": "https://clementmoreau.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "«&nbsp;Micro-swimming&nbsp;», the study of locomotion at microscopic scale, is a broad topic with applications ranging from biology to medical robotics. The locomotion problem may be modelled as a nonlinear control-affine system, with or without a drift depending on modeling assumptions, such as environment model and the way deformation is controlled. This raises the question of controllability, i.e. the ability of the locomotor to reach any desired state. In this talk, I would like to give an overview of micro-locomotion theory and modeling, and introduce some controllability results along the way. In particular, I will discuss necessary conditions for local controllability of multi-input systems with a drift, with an application to a soft slender micro-robot controlled by a magnetic field.",
+        "bio": "Clément Moreau is a CNRS researcher at Laboratoire des Sciences du Numérique de Nantes (LS2N). He obtained his PhD from Université Côte d'Azur in 2020 on controllability of nonlinear systems in finite and infinite dimension, before spending three years as a JSPS Fellow at the Research Institute for Mathematical Sciences in Kyoto University. His research interests span modeling, control theory and optimization applied to bio-inspired robotics and microscopic locomotion.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
     "date": "2025-09-09",
     "seminars": [
       {
