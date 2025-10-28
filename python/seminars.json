@@ -1,6 +1,27 @@
 [
   {
-    "date" : "2025-11-04",
+    "date": "2025-11-14",
+    "seminars": [
+      {
+        "title": "Control-Based Design of Online Optimization Algorithms",
+        "speaker": {
+          "name": "Nicola Bastianello",
+          "affiliation": "School of Electrical Engineering and Computer Science, and Digital Futures, KTH Royal Institute of Technology, Sweden",
+          "url": "https://bastianello.me/"
+        },
+        "time": [
+          "11:00",
+          "12:00"
+        ],
+        "abstract": "In many applications &mdash; ranging from control, to image processing, to machine learning &mdash; we are interested in solving online optimization problems, that is, optimization problems whose data change over time. Designing online optimization algorithms presents a challenging set of constraints, foremost of which is the need for real-time operations. In this talk, I will discuss the fruitful application of control-based techniques to design efficient online algorithms. After a background on online optimization, I will discuss how we can leverage techniques from (robust) control theory to design online algorithms that outperform the state of the art. I will show theoretical and numerical results for both unconstrained and constrained optimization problems, and discuss some interesting future directions.",
+        "bio": "Nicola Bastianello is a researcher at the School of Electrical Engineering and Computer Science, and Digital Futures, KTH Royal Institute of Technology, Sweden. From 2021 to 2022 he was a post-doc at the Department of Information Engineering (DEI), University of Padova, Italy. He received the Ph.D. in Information Engineering at the University of Padova, Italy in 2021. During the Ph.D. he was a visiting student at the Department of Electrical, Computer, and Energy Engineering (ECEE), University of Colorado Boulder, Colorado, USA. He received the master degree in Automation Engineering (2018) and the bachelor degree in Information Engineering (2015) from the University of Padova, Italy. He currently serves in the IEEE CSS and EUCA Conference Editorial Boards. His research lies at the intersection of optimization and learning, with a focus on multi-agent systems.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
+    "date": "2025-11-04",
     "seminars": [
       {
         "title": "A noncooperative multi-objective differential game for assistive shared control",
