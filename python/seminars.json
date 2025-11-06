@@ -1,5 +1,98 @@
 [
   {
+    "date": "2025-11-18",
+    "seminars": [
+      {
+        "title": "Over-approximation methods with preview information for safe control",
+        "speaker": {
+          "name": "Antoine Aspeel",
+          "affiliation": "L2S",
+          "url": "https://aaspeel.github.io/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​​Ensuring safety in the control of nonlinear systems is a central challenge in control theory. Over-approximations address this by replacing a deterministic nonlinear system with a nondeterministic (piecewise) linear one, enabling the use of control synthesis techniques with formal guarantees for the original dynamics. Over-approximations with preview reinterpret the approximation error as input-dependent preview information, leading to policies that depend jointly on the state and the error. The resulting concretization problem—recovering a valid input for the true system from such a policy—is formulated as a fixed-point equation, enabling efficient computation.",
+        "bio": "After a PhD at UCLouvain (Belgium) with Raphaël Jungers and Benoit Macq, Antoine spent two years as a postdoc at University of Michigan in the group of Prof. Necmiye Ozay. He is now a postdoc in L2S with Antoine Girard and Thiago Alves Lima.​",
+        "file": ""
+      },
+      {
+        "title": "Aizerman Conjectures for positive systems",
+        "speaker": {
+          "name": "Matthew Turner",
+          "affiliation": "University of Southampton",
+          "url": "https://www.southampton.ac.uk/people/5y5nkg/professor-matthew-turner"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "The fallacious Aizerman Conjecture states that the interconnection of a linear system and a sector bounded nonlinearity is stable if the interconnection of the linear system and a linear gain is stable for all linear gain values in the sector. The attraction is that a nonlinear problem is replaced by a linear one. Despite being false in general, this talk will discuss a case where the Aizerman Conjecture is actually true: when the linear system is internally positive. Interestingly, the proofs of the « conjecture » are relatively straightforward and various versions of the results can be derived.",
+        "bio": "Matthew Turner received the BEng degree in Electrical and Electronic Engineering from the University of Surrey in 1996 and the PhD in Control Engineering from the University of Leicester in 2000. After a post-doc he continued at Leicester for several years becoming lecturer, then senior lecturer and then professor. At Leicester he served in various leadership capacities including Deputy Head of Research (Engineering) and Head of the Aerospace and Computational Engineering Research Group.  He joined the Cyber-Physical-Systems Research Group in ECS in March 2020.​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
+    "date": "2025-11-14",
+    "seminars": [
+      {
+        "title": "",
+        "speaker": {
+          "name": "Nicola Bastianello",
+          "affiliation": "School of Electrical Engineering and Computer Science, and Digital Futures, KTH Royal Institute of Technology, Sweden",
+          "url": "https://bastianello.me/"
+        },
+        "time": [
+          "11:00",
+          "12:00"
+        ],
+        "abstract": "In many applications — ranging from control, to image processing, to machine learning — we are interested in solving online optimization problems, that is, optimization problems whose data change over time. Designing online optimization algorithms presents a challenging set of constraints, foremost of which is the need for real-time operations. In this talk, I will discuss the fruitful application of control-based techniques to design efficient online algorithms. After a background on online optimization, I will discuss how we can leverage techniques from (robust) control theory to design online algorithms that outperform the state of the art. I will show theoretical and numerical results for both unconstrained and constrained optimization problems, and discuss some interesting future directions.",
+        "bio": "Nicola Bastianello is a researcher at the School of Electrical Engineering and Computer Science, and Digital Futures, KTH Royal Institute of Technology, Sweden. From 2021 to 2022 he was a post-doc at the Department of Information Engineering (DEI), University of Padova, Italy. He received the Ph.D. in Information Engineering at the University of Padova, Italy in 2021. During the Ph.D. he was a visiting student at the Department of Electrical, Computer, and Energy Engineering (ECEE), University of Colorado Boulder, Colorado, USA. He received the master degree in Automation Engineering (2018) and the bachelor degree in Information Engineering (2015) from the University of Padova, Italy. He currently serves in the IEEE CSS and EUCA Conference Editorial Boards. His research lies at the intersection of optimization and learning, with a focus on multi-agent systems.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
+    "date": "2025-11-04",
+    "seminars": [
+      {
+        "title": "A noncooperative multi-objective differential game for assistive shared control",
+        "speaker": {
+          "name": "Renaud Vallette",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/vallette-renaud/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "​​​​​​In user–robot interactions, shared control provides supportive control actions that enhance task performance and user experience. In this work, we aim to develop shared control strategies for a 4-DoF mouse limb prosthesis actuated via a bidirectional brain–machine interface (BMI). Within a differential game-theoretic framework, we formulate a noncooperative game to manage multiple, potentially conflicting objectives, including user assistance, safety, and haptic exploration. For the prosthesis control scenario, the shared control strategy is designed to operate without prior knowledge of the user's intended task. As an initial experimental step, we propose a simplified 1-DoF human-in-the-loop shared control setup to evaluate the approach.",
+        "bio": "Renaud Vallette is a PhD student at L2S, CentraleSupélec, working under the supervision of Maria Makarov (L2S), Antoine Chaillet (L2S), and Luc Estebanez (NeuroPSI). This thesis takes place within the ANR project HERMIN (Haptic Exploration and Reflex Motor control In a Neuroprosthesis). His research focuses on game theoretical shared control for robotic applications.​",
+        "file": ""
+      },
+      {
+        "title": "A promenade in microscopic locomotion and controllability of affine systems",
+        "speaker": {
+          "name": "Clément Moreau",
+          "affiliation": "Laboratoire des Sciences du Numérique de Nantes, LS2N",
+          "url": "https://clementmoreau.github.io/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "« Micro-swimming », the study of locomotion at microscopic scale, is a broad topic with applications ranging from biology to medical robotics. The locomotion problem may be modelled as a nonlinear control-affine system, with or without a drift depending on modeling assumptions, such as environment model and the way deformation is controlled. This raises the question of controllability, i.e. the ability of the locomotor to reach any desired state. In this talk, I would like to give an overview of micro-locomotion theory and modeling, and introduce some controllability results along the way. In particular, I will discuss necessary conditions for local controllability of multi-input systems with a drift, with an application to a soft slender micro-robot controlled by a magnetic field.​",
+        "bio": "Clément Moreau is a CNRS researcher at Laboratoire des Sciences du Numérique de Nantes (LS2N). He obtained his PhD from Université Côte d'Azur in 2020 on controllability of nonlinear systems in finite and infinite dimension, before spending three years as a JSPS Fellow at the Research Institute for Mathematical Sciences in Kyoto University. His research interests span modeling, control theory and optimization applied to bio-inspired robotics and microscopic locomotion.​​​​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2025-09-09",
     "seminars": [
       {
