@@ -39,6 +39,21 @@
     "date": "2025-11-14",
     "seminars": [
       {
+        "title": "ALADIN—An algorithm for distributed non-convex optimization ",
+        "speaker": {
+          "name": "Yuning Jiang",
+          "affiliation": "L2S",
+          "url": "https://people.epfl.ch/yuning.jiang?lang=fr"
+        },
+        "time": [
+          "10:40",
+          "11:00"
+        ],
+        "abstract": "This talk is about distributed derivative-based algorithms for solving optimization problems with separable and potentially non-convex objectives as well as coupled affine constraints, a structure that is present in optimal control problems. We propose a parallelizable method that borrows concepts from the field of sequential quadratic programming and augmented Lagrangian algorithms. In contrast to existing decomposition methods, such as the alternating direction method of multipliers, the proposed algorithm is applicable to non-convex optimization problems and can achieve a superlinear convergence rate.",
+        "bio": "Yuning Jiang received his Ph.D. degree from the University of Chinese Academy of Sciences in 2020. He was a Visiting Scholar with UC Berkeley, the University of Freiburg, and TU Ilmenau during his Ph.D. study. He was a Postdoc with the Automatic Control Laboratory at EPFL from 2020 to 2025. He is currently a research associate with L2S. His research focuses on optimization-based decision-making.​",
+        "file": ""
+      },
+      {
         "title": "Control-Based Design of Online Optimization Algorithms",
         "speaker": {
           "name": "Nicola Bastianello",
