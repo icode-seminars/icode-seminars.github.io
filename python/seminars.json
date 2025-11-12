@@ -13,7 +13,7 @@
           "13:40",
           "14:00"
         ],
-        "abstract": "​​​​​​Ensuring safety in the control of nonlinear systems is a central challenge in control theory. Over-approximations address this by replacing a deterministic nonlinear system with a nondeterministic (piecewise) linear one, enabling the use of control synthesis techniques with formal guarantees for the original dynamics. Over-approximations with preview reinterpret the approximation error as input-dependent preview information, leading to policies that depend jointly on the state and the error. The resulting concretization problem—recovering a valid input for the true system from such a policy—is formulated as a fixed-point equation, enabling efficient computation.",
+        "abstract": "​​​​​​Ensuring safety in the control of nonlinear systems is a central challenge in control theory. Over-approximations address this by replacing a deterministic nonlinear system with a nondeterministic (piecewise) linear one, enabling the use of control synthesis techniques with formal guarantees for the original dynamics. Over-approximations with preview reinterpret the approximation error as input-dependent preview information, leading to policies that depend jointly on the state and the error. The resulting concretization problem&mdash;recovering a valid input for the true system from such a policy&mdash;is formulated as a fixed-point equation, enabling efficient computation.",
         "bio": "After a PhD at UCLouvain (Belgium) with Raphaël Jungers and Benoit Macq, Antoine spent two years as a postdoc at University of Michigan in the group of Prof. Necmiye Ozay. He is now a postdoc in L2S with Antoine Girard and Thiago Alves Lima.​",
         "file": ""
       },
@@ -33,7 +33,7 @@
         "file": ""
       }
     ],
-    "place": "L2S, IBM building, 3rd floor"
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
   },
   {
     "date": "2025-11-14",
@@ -102,7 +102,7 @@
         ],
         "abstract": "« Micro-swimming », the study of locomotion at microscopic scale, is a broad topic with applications ranging from biology to medical robotics. The locomotion problem may be modelled as a nonlinear control-affine system, with or without a drift depending on modeling assumptions, such as environment model and the way deformation is controlled. This raises the question of controllability, i.e. the ability of the locomotor to reach any desired state. In this talk, I would like to give an overview of micro-locomotion theory and modeling, and introduce some controllability results along the way. In particular, I will discuss necessary conditions for local controllability of multi-input systems with a drift, with an application to a soft slender micro-robot controlled by a magnetic field.​",
         "bio": "Clément Moreau is a CNRS researcher at Laboratoire des Sciences du Numérique de Nantes (LS2N). He obtained his PhD from Université Côte d'Azur in 2020 on controllability of nonlinear systems in finite and infinite dimension, before spending three years as a JSPS Fellow at the Research Institute for Mathematical Sciences in Kyoto University. His research interests span modeling, control theory and optimization applied to bio-inspired robotics and microscopic locomotion.​​​​",
-        "file": ""
+        "file": "2025-11-04-Moreau.pdf"
       }
     ],
     "place": "L2S, IBM building, Grace Hopper room (0336)"
