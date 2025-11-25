@@ -1,4 +1,39 @@
 [
+{
+    "date": "2025-12-02",
+    "seminars": [
+      {
+        "title": "Optimal Control of Sweeping Processes: Theoretical Framework and Numerical Approximation",
+        "speaker": {
+          "name": "Francisco Silva",
+          "affiliation": "XLIM, Univ. Limoges",
+          "url": "https://sites.google.com/view/franciscojosesilva/"
+        },
+        "time": [
+          "10:00",
+          "11:00"
+        ],
+        "abstract": "In this talk, based on joint work with J.&nbsp;Gianatti and E.&nbsp;Vilches, we first provide a theoretical framework for finite-horizon optimal control problems in which the state is governed by a controlled sweeping process, and we show that the value function is the unique viscosity solution of the associated Hamilton&ndash;Jacobi&ndash;Bellman equation. We then introduce a semi-Lagrangian scheme to approximate the value function and establish its convergence. Finally, we present numerical experiments for two-dimensional problems and discuss some promising extensions.",
+        "file": ""
+      },
+      {
+        "title": "Convex relaxation of hybrid discrete-continuous control problems",
+        "speaker": {
+          "name": "Christian Clason",
+          "affiliation": "Department of Mathematics and Scientific Computing, University of Graz",
+          "url": "https://imsc.uni-graz.at/clason/"
+        },
+        "time": [
+          "11:00",
+          "12:00"
+        ],
+        "abstract": "We consider control problems for partial differential equations where the distributed control should take on values only from a given discrete and hence non-convex set. Such problems occur for example in parameter identification or topology optimization. Similar to their use in sparse optimization, L1-type norms can be used to formulate a convex relaxation which can be solved by semi-smooth Newton methods. We illustrate this approach using linear model problems and discuss the extension to vector-valued and nonlinear control problems.",
+        "bio": "I received my PhD at the Technical University of Munich, then moved to Graz for a postdoc and later became assistant and then associate professor. In 2014, I took a full professor position for Inverse Problems at the University of Duisburg-Essen. Since 2021, I am Professor of Mathematical Optimization at the University of Graz, where my research focus is on nonsmooth and pde-constrained optimization with applications in inverse problems and biomedical imaging.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
+  },
   {
     "date": "2025-11-18",
     "seminars": [
@@ -66,7 +101,7 @@
         ],
         "abstract": "In many applications, ranging from control, to image processing, to machine learning, we are interested in solving online optimization problems, that is, optimization problems whose data change over time. Designing online optimization algorithms presents a challenging set of constraints, foremost of which is the need for real-time operations. In this talk, I will discuss the fruitful application of control-based techniques to design efficient online algorithms. After a background on online optimization, I will discuss how we can leverage techniques from (robust) control theory to design online algorithms that outperform the state of the art. I will show theoretical and numerical results for both unconstrained and constrained optimization problems, and discuss some interesting future directions.",
         "bio": "Nicola Bastianello is a researcher at the School of Electrical Engineering and Computer Science, and Digital Futures, KTH Royal Institute of Technology, Sweden. From 2021 to 2022 he was a post-doc at the Department of Information Engineering (DEI), University of Padova, Italy. He received the Ph.D. in Information Engineering at the University of Padova, Italy in 2021. During the Ph.D. he was a visiting student at the Department of Electrical, Computer, and Energy Engineering (ECEE), University of Colorado Boulder, Colorado, USA. He received the master degree in Automation Engineering (2018) and the bachelor degree in Information Engineering (2015) from the University of Padova, Italy. He currently serves in the IEEE CSS and EUCA Conference Editorial Boards. His research lies at the intersection of optimization and learning, with a focus on multi-agent systems.",
-        "file": ""
+        "file": "2025-11-14-Bastianello.pdf"
       }
     ],
     "place": "L2S, IBM building, Grace Hopper room (0336)"
