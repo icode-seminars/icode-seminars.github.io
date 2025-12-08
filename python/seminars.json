@@ -1,12 +1,32 @@
 [
-{
+  {
+    "date" : "2025-12-10",
+    "seminars" : [
+      {
+        "title" : "Generalized Fixed Point Theorems and Their Applications to Functional Equations and Dynamic Programming",
+        "speaker" : {
+          "name" : "Abdelkader Belhenniche",
+          "affiliation" : "SYSTEC Faculty of Engineering, University of Porto, Portugal",
+          "url" : "https://scholar.google.com/citations?user=DLNY06sAAAAJ"
+        },
+        "time" : [
+          "14:00",
+          "15:00"
+        ],
+        "abstract" : "Fixed point theory is a cornerstone of nonlinear analysis, offering elegant tools to guarantee existence and uniqueness of solutions in diverse settings. This talk presents an intuitive and rigorous overview, from classical results like Banach's and Brouwer's theorems to modern generalizations in partial and extended b-metric spaces. Applications to integral and differential equations, fractional models, and special types of dynamic programming are highlighted. The discussion also connects exyended b metric concepts to computational frameworks such as pattern matching and image retrieval.",
+        "file" : ""
+      }
+    ],
+    "place" : "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
     "date": "2025-12-02",
     "seminars": [
       {
         "title": "Optimal Control of Sweeping Processes: Theoretical Framework and Numerical Approximation",
         "speaker": {
           "name": "Francisco Silva",
-          "affiliation": "XLIM, Univ. Limoges",
+          "affiliation": "XLIM, Univ.&nbsp;Limoges",
           "url": "https://sites.google.com/view/franciscojosesilva/"
         },
         "time": [
@@ -14,7 +34,7 @@
           "11:00"
         ],
         "abstract": "In this talk, based on joint work with J.&nbsp;Gianatti and E.&nbsp;Vilches, we first provide a theoretical framework for finite-horizon optimal control problems in which the state is governed by a controlled sweeping process, and we show that the value function is the unique viscosity solution of the associated Hamilton&ndash;Jacobi&ndash;Bellman equation. We then introduce a semi-Lagrangian scheme to approximate the value function and establish its convergence. Finally, we present numerical experiments for two-dimensional problems and discuss some promising extensions.",
-        "file": ""
+        "file": "2025-12-02-Silva.pdf"
       },
       {
         "title": "Convex relaxation of hybrid discrete-continuous control problems",
@@ -29,7 +49,7 @@
         ],
         "abstract": "We consider control problems for partial differential equations where the distributed control should take on values only from a given discrete and hence non-convex set. Such problems occur for example in parameter identification or topology optimization. Similar to their use in sparse optimization, L1-type norms can be used to formulate a convex relaxation which can be solved by semi-smooth Newton methods. We illustrate this approach using linear model problems and discuss the extension to vector-valued and nonlinear control problems.",
         "bio": "I received my PhD at the Technical University of Munich, then moved to Graz for a postdoc and later became assistant and then associate professor. In 2014, I took a full professor position for Inverse Problems at the University of Duisburg-Essen. Since 2021, I am Professor of Mathematical Optimization at the University of Graz, where my research focus is on nonsmooth and pde-constrained optimization with applications in inverse problems and biomedical imaging.",
-        "file": ""
+        "file": "2025-12-02-Clason.pdf"
       }
     ],
     "place": "L2S, IBM building, Grace Hopper room (0336)"
