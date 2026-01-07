@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-01-08",
+    "seminars": [
+      {
+        "title": "",
+        "speaker": {
+          "name": "Oumayma Khattabi",
+          "affiliation": "L2S",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "Low-dimensional observer design with robust convergence guarantees for lithium-ion batteries",
+        "speaker": {
+          "name": "Mila Khalil",
+          "affiliation": "Ecole Centrale de Nantes, CNRS, LS2N",
+          "url": "https://sites.google.com/view/mira-khalil/home"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Accurate estimation of the internal states of lithium-ion batteries is key towards improving their management for safety, efficiency and longevity purposes. A relevant approach in this context is to design an observer based on a mathematical model of the battery internal dynamics. Since the battery dynamics are nonlinear, nonlinear Kalman filters are often employed. However, these filters generally lack robust, global convergence guarantees, making it difficult to trust the estimates they generate. On the other hand, accurate battery models, and thus their associated full-state observers, tend to be high-dimensional and therefore may not be possible to implement in a battery management system due to limited computational resources, especially when based on electrochemical principles or/and when dealing with battery packs made of a large number of cells like those in electric vehicles. In this talk, I address the aforementioned challenges by presenting novel, low-dimensional estimation schemes with robust convergence guarantees for lithium-ion batteries.",
+        "bio": "I was born in 1999, in Mina, Lebanon. I am currently a postdoc at Ecole Centrale de Nantes, CNRS, LS2N in Nantes, France. I obtained my PhD in Automatic control from Université de Lorraine, CNRS, CRAN , GREEN in Nancy, France, in 2025. My PhD supervisors are Romain Postoyan and Stéphane Raël. I received a master’s degree in Electrical and Electronics Engineering from the Lebanese University, Faculty of Engineering, Koura, Lebanon, in 2022. My master’s thesis work was performed at LS2N laboratory of Polytech Nantes in France between February 2022 and July 2022.​",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2025-11-18",
     "seminars": [
       {
