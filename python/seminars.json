@@ -1,39 +1,58 @@
 [
   {
-    "date": "2026-01-08",
-    "seminars": [
+    "date" : "2025-12-10",
+    "seminars" : [
       {
-        "title": "",
-        "speaker": {
-          "name": "Oumayma Khattabi",
-          "affiliation": "L2S",
-          "url": ""
+        "title" : "Generalized Fixed Point Theorems and Their Applications to Functional Equations and Dynamic Programming",
+        "speaker" : {
+          "name" : "Abdelkader Belhenniche",
+          "affiliation" : "SYSTEC Faculty of Engineering, University of Porto, Portugal",
+          "url" : "https://scholar.google.com/citations?user=DLNY06sAAAAJ"
         },
-        "time": [
-          "13:40",
-          "14:00"
-        ],
-        "abstract": "",
-        "bio": "​",
-        "file": ""
-      },
-      {
-        "title": "Low-dimensional observer design with robust convergence guarantees for lithium-ion batteries",
-        "speaker": {
-          "name": "Mila Khalil",
-          "affiliation": "Ecole Centrale de Nantes, CNRS, LS2N",
-          "url": "https://sites.google.com/view/mira-khalil/home"
-        },
-        "time": [
+        "time" : [
           "14:00",
           "15:00"
         ],
-        "abstract": "Accurate estimation of the internal states of lithium-ion batteries is key towards improving their management for safety, efficiency and longevity purposes. A relevant approach in this context is to design an observer based on a mathematical model of the battery internal dynamics. Since the battery dynamics are nonlinear, nonlinear Kalman filters are often employed. However, these filters generally lack robust, global convergence guarantees, making it difficult to trust the estimates they generate. On the other hand, accurate battery models, and thus their associated full-state observers, tend to be high-dimensional and therefore may not be possible to implement in a battery management system due to limited computational resources, especially when based on electrochemical principles or/and when dealing with battery packs made of a large number of cells like those in electric vehicles. In this talk, I address the aforementioned challenges by presenting novel, low-dimensional estimation schemes with robust convergence guarantees for lithium-ion batteries.",
-        "bio": "I was born in 1999, in Mina, Lebanon. I am currently a postdoc at Ecole Centrale de Nantes, CNRS, LS2N in Nantes, France. I obtained my PhD in Automatic control from Université de Lorraine, CNRS, CRAN , GREEN in Nancy, France, in 2025. My PhD supervisors are Romain Postoyan and Stéphane Raël. I received a master’s degree in Electrical and Electronics Engineering from the Lebanese University, Faculty of Engineering, Koura, Lebanon, in 2022. My master’s thesis work was performed at LS2N laboratory of Polytech Nantes in France between February 2022 and July 2022.​",
-        "file": ""
+        "abstract" : "Fixed point theory is a cornerstone of nonlinear analysis, offering elegant tools to guarantee existence and uniqueness of solutions in diverse settings. This talk presents an intuitive and rigorous overview, from classical results like Banach's and Brouwer's theorems to modern generalizations in partial and extended b-metric spaces. Applications to integral and differential equations, fractional models, and special types of dynamic programming are highlighted. The discussion also connects exyended b metric concepts to computational frameworks such as pattern matching and image retrieval.",
+        "file" : ""
       }
     ],
-    "place": "L2S, IBM building, 3rd floor"
+    "place" : "L2S, IBM building, Grace Hopper room (0336)"
+  },
+  {
+    "date": "2025-12-02",
+    "seminars": [
+      {
+        "title": "Optimal Control of Sweeping Processes: Theoretical Framework and Numerical Approximation",
+        "speaker": {
+          "name": "Francisco Silva",
+          "affiliation": "XLIM, Univ.&nbsp;Limoges",
+          "url": "https://sites.google.com/view/franciscojosesilva/"
+        },
+        "time": [
+          "10:00",
+          "11:00"
+        ],
+        "abstract": "In this talk, based on joint work with J.&nbsp;Gianatti and E.&nbsp;Vilches, we first provide a theoretical framework for finite-horizon optimal control problems in which the state is governed by a controlled sweeping process, and we show that the value function is the unique viscosity solution of the associated Hamilton&ndash;Jacobi&ndash;Bellman equation. We then introduce a semi-Lagrangian scheme to approximate the value function and establish its convergence. Finally, we present numerical experiments for two-dimensional problems and discuss some promising extensions.",
+        "file": "2025-12-02-Silva.pdf"
+      },
+      {
+        "title": "Convex relaxation of hybrid discrete-continuous control problems",
+        "speaker": {
+          "name": "Christian Clason",
+          "affiliation": "Department of Mathematics and Scientific Computing, University of Graz",
+          "url": "https://imsc.uni-graz.at/clason/"
+        },
+        "time": [
+          "11:00",
+          "12:00"
+        ],
+        "abstract": "We consider control problems for partial differential equations where the distributed control should take on values only from a given discrete and hence non-convex set. Such problems occur for example in parameter identification or topology optimization. Similar to their use in sparse optimization, L1-type norms can be used to formulate a convex relaxation which can be solved by semi-smooth Newton methods. We illustrate this approach using linear model problems and discuss the extension to vector-valued and nonlinear control problems.",
+        "bio": "I received my PhD at the Technical University of Munich, then moved to Graz for a postdoc and later became assistant and then associate professor. In 2014, I took a full professor position for Inverse Problems at the University of Duisburg-Essen. Since 2021, I am Professor of Mathematical Optimization at the University of Graz, where my research focus is on nonsmooth and pde-constrained optimization with applications in inverse problems and biomedical imaging.",
+        "file": "2025-12-02-Clason.pdf"
+      }
+    ],
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
   },
   {
     "date": "2025-11-18",
@@ -49,7 +68,7 @@
           "13:40",
           "14:00"
         ],
-        "abstract": "​​​​​​Ensuring safety in the control of nonlinear systems is a central challenge in control theory. Over-approximations address this by replacing a deterministic nonlinear system with a nondeterministic (piecewise) linear one, enabling the use of control synthesis techniques with formal guarantees for the original dynamics. Over-approximations with preview reinterpret the approximation error as input-dependent preview information, leading to policies that depend jointly on the state and the error. The resulting concretization problem—recovering a valid input for the true system from such a policy—is formulated as a fixed-point equation, enabling efficient computation.",
+        "abstract": "​​​​​​Ensuring safety in the control of nonlinear systems is a central challenge in control theory. Over-approximations address this by replacing a deterministic nonlinear system with a nondeterministic (piecewise) linear one, enabling the use of control synthesis techniques with formal guarantees for the original dynamics. Over-approximations with preview reinterpret the approximation error as input-dependent preview information, leading to policies that depend jointly on the state and the error. The resulting concretization problem&mdash;recovering a valid input for the true system from such a policy&mdash;is formulated as a fixed-point equation, enabling efficient computation.",
         "bio": "After a PhD at UCLouvain (Belgium) with Raphaël Jungers and Benoit Macq, Antoine spent two years as a postdoc at University of Michigan in the group of Prof. Necmiye Ozay. He is now a postdoc in L2S with Antoine Girard and Thiago Alves Lima.​",
         "file": ""
       },
@@ -69,7 +88,7 @@
         "file": ""
       }
     ],
-    "place": "L2S, IBM building, 3rd floor"
+    "place": "L2S, IBM building, Grace Hopper room (0336)"
   },
   {
     "date": "2025-11-14",
@@ -79,7 +98,7 @@
         "speaker": {
           "name": "Yuning Jiang",
           "affiliation": "L2S",
-          "url": "https://people.epfl.ch/yuning.jiang?lang=fr"
+          "url": ""
         },
         "time": [
           "10:40",
@@ -102,7 +121,7 @@
         ],
         "abstract": "In many applications, ranging from control, to image processing, to machine learning, we are interested in solving online optimization problems, that is, optimization problems whose data change over time. Designing online optimization algorithms presents a challenging set of constraints, foremost of which is the need for real-time operations. In this talk, I will discuss the fruitful application of control-based techniques to design efficient online algorithms. After a background on online optimization, I will discuss how we can leverage techniques from (robust) control theory to design online algorithms that outperform the state of the art. I will show theoretical and numerical results for both unconstrained and constrained optimization problems, and discuss some interesting future directions.",
         "bio": "Nicola Bastianello is a researcher at the School of Electrical Engineering and Computer Science, and Digital Futures, KTH Royal Institute of Technology, Sweden. From 2021 to 2022 he was a post-doc at the Department of Information Engineering (DEI), University of Padova, Italy. He received the Ph.D. in Information Engineering at the University of Padova, Italy in 2021. During the Ph.D. he was a visiting student at the Department of Electrical, Computer, and Energy Engineering (ECEE), University of Colorado Boulder, Colorado, USA. He received the master degree in Automation Engineering (2018) and the bachelor degree in Information Engineering (2015) from the University of Padova, Italy. He currently serves in the IEEE CSS and EUCA Conference Editorial Boards. His research lies at the intersection of optimization and learning, with a focus on multi-agent systems.",
-        "file": ""
+        "file": "2025-11-14-Bastianello.pdf"
       }
     ],
     "place": "L2S, IBM building, Grace Hopper room (0336)"
@@ -138,7 +157,7 @@
         ],
         "abstract": "« Micro-swimming », the study of locomotion at microscopic scale, is a broad topic with applications ranging from biology to medical robotics. The locomotion problem may be modelled as a nonlinear control-affine system, with or without a drift depending on modeling assumptions, such as environment model and the way deformation is controlled. This raises the question of controllability, i.e. the ability of the locomotor to reach any desired state. In this talk, I would like to give an overview of micro-locomotion theory and modeling, and introduce some controllability results along the way. In particular, I will discuss necessary conditions for local controllability of multi-input systems with a drift, with an application to a soft slender micro-robot controlled by a magnetic field.​",
         "bio": "Clément Moreau is a CNRS researcher at Laboratoire des Sciences du Numérique de Nantes (LS2N). He obtained his PhD from Université Côte d'Azur in 2020 on controllability of nonlinear systems in finite and infinite dimension, before spending three years as a JSPS Fellow at the Research Institute for Mathematical Sciences in Kyoto University. His research interests span modeling, control theory and optimization applied to bio-inspired robotics and microscopic locomotion.​​​​",
-        "file": ""
+        "file": "2025-11-04-Moreau.pdf"
       }
     ],
     "place": "L2S, IBM building, Grace Hopper room (0336)"
