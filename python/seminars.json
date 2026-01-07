@@ -3,18 +3,18 @@
     "date": "2026-01-08",
     "seminars": [
       {
-        "title": "",
+        "title": "Data-driven stability analysis methods",
         "speaker": {
           "name": "Oumayma Khattabi",
           "affiliation": "L2S",
-          "url": ""
+          "url": "https://l2s.centralesupelec.fr/u/khattabi-oumayma/"
         },
         "time": [
           "13:40",
           "14:00"
         ],
-        "abstract": "",
-        "bio": "​",
+        "abstract": "This talk considers the data-driven stability analysis of unknown autonomous dynamical systems, focusing on the certification of regions of attraction (RoA) under limited information on the dynamics. Two complementary approaches are presented. The first constructs Piecewise Affine (PWA) Lyapunov functions via optimisation to obtain the RoA. Local violations of Lyapunov conditions are addressed using an iterative patchy method, resulting in progressively tighter certificates. The second approach utilises a moment–sum-of-squares (SoS) hierarchy to directly compute outer approximations of the region of attraction from data. The influence of the position and number of data points is studied in an application.",
+        "bio": "After obtaining a M.Eng in electrical engineering in EMI Rabat (Morocco) in 2023, Oumayma Khattabi received a research master's degree, M2 ATSI in Paris-Saclay University (France) in 2024. She is currently a PhD student in L2S, CentraleSupélec, starting from 2024, under the supervision of Pr. Sorin Olaru (L2S) and Dr. Matteo Tacchi-Bénard (Gipsa-lab). She works on developing stability analysis methods based on data.​",
         "file": ""
       },
       {
