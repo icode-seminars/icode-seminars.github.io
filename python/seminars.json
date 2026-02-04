@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-02-05",
+    "seminars": [
+      {
+        "title": "A passivity-based perspective on (distributed) gradient methods and acceleration",
+        "speaker": {
+          "name": "Ivano Notarnicola",
+          "affiliation": "Università degli Studi di Bologna",
+          "url": "https://www.unibo.it/sitoweb/ivano.notarnicola"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "This talk revisits the classical gradient method for unconstrained optimization through the lens of control theory. By explicitly interpreting the gradient method as a feedback interconnection between a linear dynamical system and a static nonlinearity (given by the gradient of the cost function), we uncover an underlying control-theoretic structure. Within this framework, linear convergence is established using arguments from passivity theory. This system-theoretic viewpoint further reveals that the gradient method can also be interpreted as a feedback-controlled static nonlinearity, opening the door to an unconventional interpretation of accelerated schemes. Finally, the same passivity-based tools are applied to consensus optimization problems, yielding a unified framework for the design and analysis of distributed gradient methods and their acceleration.",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-01-08",
     "seminars": [
       {
