@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-02-19",
+    "seminars": [
+      {
+        "title": "Regularized Fictitious Play in Dynamic Traffic Assignment",
+        "speaker": {
+          "name": "Fabian Wirth",
+          "affiliation": "University of Passau",
+          "url": "https://www.fim.uni-passau.de/en/dynamical-systems"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "This talk considers a special instance of learning algorithms in the context of optimization theory. We study the dynamics of regularized fictitious play in dynamic flow networks to eventually learn an optimal (regularized) dynamic equilibrium. The resulting dynamical system lives in an infinite dimensional Hilbert space and as a first result we show that, in general dynamic flow networks, solutions to initial value problems for this dynamical system exist for all positive times. For the special case of monotone path delay operators, uniqueness of regularized equilibria holds. Furthermore, for the monotone case and under the assumption that the path delay is locally Lipschitz continuous, it is shown that the unique regularized equilibrium is globally asymptotically stable under regularized fictitious play. The proof is based on Lyapunov stability theory and uses several structural results on the regularized best-response correspondence. Joint work with Tobias Harks, Andreas Wimmer",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-02-05",
     "seminars": [
       {
