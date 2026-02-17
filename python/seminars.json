@@ -3,6 +3,21 @@
     "date": "2026-02-19",
     "seminars": [
       {
+        "title": "On Mobile Ad Hoc Networks for Coverage of Partially Observable Worlds",
+        "speaker": {
+          "name": "Edwin Meriaux",
+          "affiliation": "McGill University and L2S",
+          "url": "https://l2s.centralesupelec.fr/u/meriaux-edwin/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": " The Partially Observable Cooperative Guard Art Gallery Problem (POCGAGP) extends classical computational geometry formulations of the Art Gallery Problem and the Connected Guard Art Gallery Problem to settings where multiple agents must operate under partial observability while maintaining continuous connectivity. Motivated by applications such as the deployment of mobile ad hoc networks in unknown environments, the POCGAGP models cooperative exploration in which agents must jointly expand coverage while preserving a connected visibility or communication graph and operating under limited resources. In this talk, we introduce the POCGAGP as an extension of existing guard-based coverage problems, discuss its relationship to prior formulations in computational geometry, and present the problem setting and constraints that arise under partial observability. We then briefly outline two solution approaches and present representative results in orthogonal environments, demonstrating how connectivity-preserving cooperative exploration differs from traditional coverage and deployment strategies. The goal of this presentation is to motivate the problem formulation, clarify its theoretical foundations, and provide initial empirical evidence supporting the proposed setting.",
+        "bio": "​",
+        "file": ""
+      },
+      {
         "title": "Regularized Fictitious Play in Dynamic Traffic Assignment",
         "speaker": {
           "name": "Fabian Wirth",
