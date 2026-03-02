@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-03-05",
+    "seminars": [
+      {
+        "title": "Nonlinear Model Recovery Anti-Windup Control of Non-Salient Pole Permanent Magnet Synchronous Motor",
+        "speaker": {
+          "name": "Maxime Béchu",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/bechu-maxime/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "This talk presents a nonlinear anti-windup compensation strategy for Non-Salient poles Permanent Magnet Synchronous Motors (NSPMSMs) using a Model Recovery Anti-Windup (MRAW) approach. Conventional MRAW schemes are typically based on linearized motor models that may not fully capture the machine's intrinsic nonlinearities. In contrast, the proposed method explicitly exploits the lossless nonlinear structure of NSPMSMs. The effectiveness of the approach is demonstrated through numerical simulations and experimental validation on an AC motor test bench.",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "To come",
+        "speaker": {
+          "name": "Hiba Houmsi",
+          "affiliation": "Institut National des Sciences Appliquées de Lyon",
+          "url": "https://scholar.google.fr/citations?user=vkJ6YIsAAAAJ&hl=sv"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "To come",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-02-19",
     "seminars": [
       {
