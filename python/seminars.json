@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-03-09",
+    "seminars": [
+      {
+        "title": " Robust Stability and Recurrence of Stochastic Optimal Control",
+        "speaker": {
+          "name": "Robert Moldenhauer",
+          "affiliation": "University of Melbourne, Université de Lorraine",
+          "url": "https://scholar.google.com/citations?user=b63ha1EAAAAJ&hl=en"
+        },
+        "time": [
+          "11:00",
+          "12:00"
+        ],
+        "abstract": "A Lyapunov theoretic approach to stability and robustness of optimal control is well-established for deterministic systems. Considering the rise of learning in control, the close links between optimal control and reinforcement learning (RL), as well as the fact that RL is usually formulated for stochastic systems, the question arises whether similar stability and robustness guarantees can be achieved in a stochastic setting. After exploring the relations between stability, optimal control, RL and dynamic programming in a general setting and how these concepts work in the stochastic case, the main result, which guarantees (robust) semiglobal practical recurrence under stabilizability and detectability assumptions, will be presented.",
+        "bio": "Robert Moldenhauer received his B.Sc. and M.Sc in Technical Cybernetics and Systems Theory from TU Ilmenau (Germany) in 2021 and 2023, respectively, and his B.Sc. in Mathematics from TU Ilmenau in 2023. He is currently undertaking a joint PhD at the University of Melbourne (Australia) and Université de Lorraine, Nancy (France). His research interests include nonlinear systems, optimal control, dynamic programming and wind turbine control. He received the Young Author Award at the 13th IFAC Symposium on Nonlinear Control Systems (NOLCOS), 2025.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-03-05",
     "seminars": [
       {
