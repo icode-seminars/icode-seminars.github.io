@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-03-26",
+    "seminars": [
+      {
+        "title": "",
+        "speaker": {
+          "name": "Arianna Vicari",
+          "affiliation": "",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "Approximate controllability in small times of some bilinear PDEs with Lie algebraic methods",
+        "speaker": {
+          "name": "Eugenio Pozzoli",
+          "affiliation": "Institut de Recherche Mathématique de Rennes",
+          "url": "https://sites.google.com/view/eugeniopozzoli/home"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Controlling quantum dynamics is a fundamental challenge for theorists and experimentalists. Some of these systems can be modelled through Schrödinger equations. The mathematical control theory of Schrödinger equations has attracted much interest in the last three decades. Since the seminal work of Brockett, Jurdjevic, and Sussmann, the Lie algebraic approach has proved to be a powerful tool for studying finite-dimensional nonlinear control systems. In this talk we will report on recent advances in the infinite-dimensional case, with a focus on bilinear Schrödinger PDEs posed on a Riemannian manifold M. We will see in particular how the propagator can be fully controlled inside an infinite-dimensional group (namely, the group of diffeomorphisms of M, associated to the Lie algebra of vector fields over M). Thanks to two celebrated theorems of Moser and Thurston, it turns out that such group acts transitively on the infinite-dimensional state space (of square integrable (L^2) complex valued functions). Building on these ideas, we will see that several Schrödinger PDEs are globally L^2-approximately controllable. Notably, contrarily to previous contributions in the field, our control technique works in arbitrarily small times, and does not require the Hamiltonian to have discrete spectrum. Furthermore, we will also remark that our strategy can be applied to study the controllability of several other PDEs, such as wave Klein-Gordon equations with finite speed of propagation, transport equations describing the evolution of a density of classical mechanical particles, and deep neural architectures with large ensembles of data. This talk is based on two articles written in collaboration with Karine Beauchard (K. Beauchard, E. Pozzoli; Examples of small-time controllable Schrödinger equations. Annales Henri Poincaré, 2025 and K. Beauchard, E. Pozzoli; Small-time approximate controllability of bilinear Schrödinger equations and diffeomorphisms. Ann. Inst. Henri Poincaré C Anal. Non Linéaire, 2025).",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-03-13",
     "seminars": [
       {
