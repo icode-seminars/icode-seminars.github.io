@@ -3,17 +3,17 @@
     "date": "2026-03-26",
     "seminars": [
       {
-        "title": "",
+        "title": "Controlling the evolution of probability densities with feedback laws",
         "speaker": {
           "name": "Arianna Vicari",
-          "affiliation": "",
+          "affiliation": "Università di Roma Tor Vergata",
           "url": ""
         },
         "time": [
           "13:40",
           "14:00"
         ],
-        "abstract": "",
+        "abstract": "Steering a probability density from an initial to a target configuration is a problem that appears in many applications such as multi-agent systems and models with uncertainty. We address this problem using controlled dynamical systems, where the control acts linearly on a finite set of vector fields, generating flows that transport the initial density into the target one. While the problem is well understood when all directions of motion are available, here we focus on the under-actuated case. We show that, if the system is controllable at the trajectory level, one can design time-varying feedback laws that steer one probability density to another. The main idea is to lift controllability from individual trajectories to the evolution of the whole distribution. Under suitable assumptions, this approach also provides a way to realize optimal transport maps for the quadratic cost.",
         "bio": "​",
         "file": ""
       },
