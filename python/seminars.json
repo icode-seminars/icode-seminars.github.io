@@ -7,7 +7,7 @@
         "speaker": {
           "name": "Grace Chiza Bulonza",
           "affiliation": "L2S",
-          "url": ""
+          "url": "https://l2s.centralesupelec.fr/u/chiza-bulonza-grace-2/"
         },
         "time": [
           "13:40",
@@ -18,17 +18,17 @@
         "file": ""
       },
       {
-        "title": "",
+        "title": "Managing Data in Data-Driven Predictive Control",
         "speaker": {
           "name": "Stanislav Aranovskiy",
-          "affiliation": "CentraleSupélec and IETR Laboratory",
+          "affiliation": "CentraleSupélec Rennes",
           "url": "https://stanislavaranovskiy.site/"
         },
         "time": [
           "14:00",
           "15:00"
         ],
-        "abstract": "",
+        "abstract": "Data-driven Predictive Control (DPC) is a control methodology that has attracted notable interest in recent years. DPC uses a nonparametric data-based representation of linear dynamical systems based on Willems' fundamental lemma and is often interpreted within the behavioral framework.  For LTI systems with noisy measurements, this methodology is known as Data-Enabled Predictive Control (DeePC), and existing results allow for successful application to certain classes of nonlinear systems. However, such extensions require online data updates, and the trade-off between trajectory excitation and local approximation accuracy becomes critical. This talk presents one possible data management strategy addressing this trade-off via a structured double-dataset formulation. The talk starts with a brief overview of the fundamental lemma and the DeePC method for LTI systems. The extension of this approach to nonlinear systems is further discussed, and the problem of online data updates is illustrated with experimental results. The structured double-dataset approach is then presented as a possible solution to the aforementioned trade-off.",
         "bio": "",
         "file": ""
       }
