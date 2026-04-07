@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-04-09",
+    "seminars": [
+      {
+        "title": "Assume-Guarantee Contracts for System Design: Verification and Control design",
+        "speaker": {
+          "name": "Grace Chiza Bulonza",
+          "affiliation": "L2S",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "The design of engineering systems poses significant challenges, particularly when such systems are large-scale, continuously interact with their environment, or incorporate advanced computational capabilities. In this context, classical approaches often prove insufficient to ensure compliance with complex specifications. The contract-based approach, combined with set-theoretic methods, provides a rigorous framework for the formalization, certification, and verification of such specifications. In this presentation, we formalize specifications within an assume–guarantee contract framework. We then introduce a verification methodology based on the notion of invariant sets, enabling the establishment of formal guarantees for contract satisfaction. Finally, this approach paves the way for controller synthesis ensuring the enforcement of the specified contract.",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "",
+        "speaker": {
+          "name": "Stanislav Aranovskiy",
+          "affiliation": "CentraleSupélec and IETR Laboratory",
+          "url": "https://stanislavaranovskiy.site/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-03-26",
     "seminars": [
       {
