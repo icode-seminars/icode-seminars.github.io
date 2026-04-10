@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-04-21",
+    "seminars": [
+      {
+        "title": "",
+        "speaker": {
+          "name": "",
+          "affiliation": "",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "",
+        "speaker": {
+          "name": "Luca Zaccarian",
+          "affiliation": "LAAS-CNRS",
+          "url": "https://homepages.laas.fr/lzaccari/index.php?frame=research"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-04-09",
     "seminars": [
       {
