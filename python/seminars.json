@@ -3,33 +3,33 @@
     "date": "2026-04-21",
     "seminars": [
       {
-        "title": "",
+        "title": "From Collective Behavior to Distributed Intelligence: Physics-Informed Learning in Multi-Agent Systems",
         "speaker": {
-          "name": "",
-          "affiliation": "",
-          "url": ""
+          "name": "Sheida Nozari",
+          "affiliation": "L2S",
+          "url": "https://scholar.google.com/citations?user=zDD-4sQAAAAJ&hl=en"
         },
         "time": [
           "13:40",
           "14:00"
         ],
-        "abstract": "",
+        "abstract": "Understanding and controlling large-scale collective systems, such as traffic networks and crowd dynamics, remains a fundamental challenge due to their multi-scale nature and complex interactions between agents. Classical physics-based models, such as the Aw–Rascle–Zhang model, provide a principled description of macroscopic dynamics but are computationally demanding and difficult to integrate into real-time decision-making frameworks. In this talk, I present a learning-based framework that bridges physics and data-driven modeling by learning surrogate evolution operators for multi-agent systems. Starting from microscopic agent interactions, macroscopic traffic states are constructed through physics-inspired aggregation, and their temporal evolution is approximated using neural operator architectures such as the Fourier Neural Operator and graph-based models. This enables efficient and scalable prediction of system dynamics while preserving key physical properties. Building on this surrogate modeling approach, I introduce a distributed control strategy in which agents adapt their behavior based on both local observations and mesoscopic collective statistics. This results in improved stability and mitigation of emergent instabilities such as stop-and-go waves in mixed-autonomy traffic systems. The proposed framework illustrates how physics-informed learning can serve as a unifying paradigm for modeling, prediction, and control of collective systems. Beyond traffic applications, this approach opens new directions for distributed intelligence in networked systems, with potential relevance to communication-efficient learning, decentralized decision-making, and low-impact computational architectures.",
         "bio": "​",
         "file": ""
       },
       {
-        "title": "",
+        "title": "Orchestrating onboard camera sensors for feedback control of UGV and USV",
         "speaker": {
           "name": "Luca Zaccarian",
           "affiliation": "LAAS-CNRS",
-          "url": "https://homepages.laas.fr/lzaccari/index.php?frame=research"
+          "url": "https://homepages.laas.fr/lzaccari/index.php?frame=contact"
         },
         "time": [
           "14:00",
           "15:00"
         ],
-        "abstract": "",
-        "bio": "",
+        "abstract": "We consider mobile robots described through unicycle dynamics equipped with on-board range sensors and cameras, one facing forward and one facing backward, providing measurements of the distance and misalignment to a target. We propose a hybrid control law combining the two on-board measurements and discuss stability results for the closed-loop expressed in the on-board camera-based coordinates, using Lyapunov-based arguments. We prove robustness of the stability properties to uncertainties affecting the sensors and external perturbations acting on the robot. We then extend the same ideas to the more challenging problem of controlling unmanned surface vehicles.",
+        "bio": "Luca Zaccarian received the Laurea and the Ph.D. degrees from the University of Roma Tor Vergata (Italy) in 1995 and 2000, respectively. He was Assistant Professor in control engineering at the University of Roma, Tor Vergata (Italy), from 2000 to 2006 and then Associate Professor. Since 2011 he is Directeur de Recherche at the LAAS-CNRS, Toulouse (France) and since 2013 he holds a part-time professor position at the University of Trento, Italy. Luca Zaccarian's main research interests include analysis and design of nonlinear and hybrid control systems, modeling and control of mechatronic systems. He has served in the organizing committee and TPC of several IEEE and IFAC conferences. He has been a member of the IEEE-CSS Conference Editorial Board and an associate editor for Systems and Control Letters and IEEE Transactions on Automatic Control. He is currently senior editor for nonlinear systems and control and deputy editor-in-chief for the IFAC journal Automatica, a member of the EUCA-CEB and an associate editor for the European Journal of Control. He served in the IEEE-CSS Board of Governors in 2014 (nominated member), and 2017-2019 (elected member). He has been nominated Director of Operations in the IEEE-CSS Executive Committee for the triennium 2027-2029. He was a recipient of the 2001 O. Hugo Schuck Best Paper Award given by the American Automatic Control Council. He is a fellow of the IEEE, class of 2016.",
         "file": ""
       }
     ],
