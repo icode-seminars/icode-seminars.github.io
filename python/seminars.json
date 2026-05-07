@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-05-12",
+    "seminars": [
+      {
+        "title": "Fixed-Time and Arbitrarily Fast Exponential Stabilization of Discrete-Time Switched Linear Systems",
+        "speaker": {
+          "name": "Flavio Picchiotti",
+          "affiliation": "L2S",
+          "url": "https://l2s.centralesupelec.fr/u/picchiotti-flavio/"
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "We discuss the problem of arbitrarily fast exponential stabilization of discrete-time switched linear systems under arbitrary switching. Using a geometric approach, we first characterize fixed-time stabilizability in both the mode-dependent and mode-independent settings, and provide constructive procedures for the computation of stabilizing feedback gains. Building on these results, we then introduce a structural decomposition of switched systems, which serves to simplify stabilizability analysis and controller design. We further establish the equivalence between fixed-time stabilizability and arbitrarily fast exponential stabilizability. A numerical example illustrates the proposed methodology.",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "KKL observer design for nonsmooth systems with non-unique backward solutions",
+        "speaker": {
+          "name": "Pauline Bernard",
+          "affiliation": "MINES ParisTech",
+          "url": "https://sites.google.com/site/sitepmbernard/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "Kazantzis-Kravaris-Luenberger (KKL) observers consist in embedding the system into a latent space of larger dimension where the dynamics take the form of a contracting filter of the output. An observer is then obtained by running the filter and left-inverting the transformation to recover an estimate of the state – or an estimate of whatever information is distinguishable from the output. Indeed, under mere regularity assumptions on the system dynamics, it can be shown that such an embedding always exists and is injective with respect to the distinguishable content of the output. We show in this presentation how this framework adapts to nonsmooth systems with non-unique backward solutions. This situation may occur in ODEs with non-Lipschitz vector fields (e.g. in fluid flow dynamics with orifices or valves), or with discontinuous right-hand side (e.g., mechanical systems with friction). In this case, the embedding naturally becomes set-valued, which is out of the scope of the standard KKL theory and calls for more general concepts of injectivity and regularity. We show that upper semi continuity, local boundedness and set-valued injectivity of this map are sufficient conditions for designing a converging KKL observer. The former two being satisfied for Carathéodory ODE's and Filippov differential inclusions, we focus on set-valued injectivity, which we show can be guaranteed under backward-distinguishability if backward solutions can be parametrized by a finite number of parameters (possibly larger than the system dimension). We illustrate those properties on several applications including reservoir pressure estimation in gas-lift drilling applications.",
+        "bio": "Pauline Bernard is Associate Professor at the Centre Automatique et Systèmes of Mines Paris - PSL, France. She graduated in Applied Mathematics from Mines Paris in 2014 (formerly MINES ParisTech). She joined the Centre Automatique et Systèmes and obtained her Ph.D. in Mathematics and Control from Université PSL in 2017. For her work on observer design for nonlinear systems, she obtained the European Ph.D. award on Control for Complex and Heterogeneous Systems 2018. As a post-doctoral scholar, she visited the Hybrid Systems Lab at the University of California Santa Cruz, USA, and the Center for Research on Complex Automated Systems at the University of Bologna, Italy. Her research interests cover the observation and output regulation of nonlinear and hybrid systems with applications in electrical machines and nonsmooth mechanics.",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-04-21",
     "seminars": [
       {
