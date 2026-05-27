@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-06-08",
+    "seminars": [
+      {
+        "title": "",
+        "speaker": {
+          "name": "to be determined",
+          "affiliation": "",
+          "url": ""
+        },
+        "time": [
+          "13:40",
+          "14:00"
+        ],
+        "abstract": "",
+        "bio": "​",
+        "file": ""
+      },
+      {
+        "title": "Nonlinear Control Designs: From Lyapunov to Neural Networks",
+        "speaker": {
+          "name": "Christophe Prieur",
+          "affiliation": "Gipsa-Lab",
+          "url": "https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/"
+        },
+        "time": [
+          "14:00",
+          "15:00"
+        ],
+        "abstract": "The goal of this talk is to revisit control problems for systems with nonlinear feedback. We will demonstrate that the stabilization of open-loop unstable systems can be achieved, even in the presence of input nonlinearities (such as saturations). The class of systems considered will be very broad, encompassing finite-dimensional systems as well as distributed-parameter systems, such as those modeling transport phenomena (of information or energy, for example) or reaction-diffusion processes (of heat, molecules, etc.). To address this control problem, we will leverage Lyapunov functions and adapt Lyapunov theory to infinite-dimensional systems. Finally, we will show how this work can be extended to cases where feedback loops incorporate neural networks with varying numbers of layers and neurons.",
+        "bio": "",
+        "file": ""
+      }
+    ],
+    "place": "L2S, IBM building, 3rd floor"
+  },
+  {
     "date": "2026-05-28",
     "seminars": [
       {
